@@ -7,12 +7,12 @@ tags: protocols
 
 ## Quickstart 
 
-[CGRPmigraine 😭](donate)
-{: .largetype}
+[CGRPmigraine 😭] {: .largetype}
 
-Protocol: **CGRPmigraine**  
+Protocol: **Anti CGRP migraine treatments for patients refractory to standard therapy**  
 Subscription: **$10/month + cost of meds**    
 Creator: **[Dr. Sam Smith MD](https://github.com/sparanoid/almace-scaffolding)** 
+Tags: `migraine`, `cgrp`, `emgality`, `neuro`
 
 <p class="largetype">
   <a href="{{ '/getting-started.html' | relative_url }}">Subscribe →</a>
@@ -24,12 +24,12 @@ CGRP migraine treatment is a new type of treatment used to prevent and treat mig
 
 ## Formulary 
 
-1. Aimovig® (erenumab-aooe) 70mg/ml pen injector
-2. Aimovig® (erenumab-aooe) 140mg/ml pen injector
-3. Ajovy® 225 mg/ml (fremanezumab) pen injector
-4. Emgality® 120 mg/ml (galcanezumab-gnlm) pen injector
-5. Ubrely™ (ubrogepant) 50mg tablet
-6. Ubrely™ (ubrogepant) 100mg tablet
+1. Aimovig® (erenumab-aooe) 70mg/ml pen injector 💉
+2. Aimovig® (erenumab-aooe) 140mg/ml pen injector 💉
+3. Ajovy® 225 mg/ml (fremanezumab) pen injector 💉
+4. Emgality® 120 mg/ml (galcanezumab-gnlm) pen injector 💉
+5. Ubrely™ (ubrogepant) 50mg tablet 💊
+6. Ubrely™ (ubrogepant) 100mg tablet 💊
 
 ## Eligibility 
 
