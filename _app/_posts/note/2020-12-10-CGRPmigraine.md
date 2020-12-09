@@ -7,11 +7,9 @@ tags: CGRPmigraine
 
 ## Quickstart 
 
-Protocol: CGRPmigraine
-
-Subscription: $10/month + cost of meds
-
-Creator: [Dr. Sam Smith MD](https://github.com/sparanoid/almace-scaffolding)
+Protocol: **CGRPmigraine**  
+Subscription: **$10/month + cost of meds**    
+Creator: **[Dr. Sam Smith MD](https://github.com/sparanoid/almace-scaffolding)** 
 
 <p class="largetype">
   <a href="{{ '/getting-started.html' | relative_url }}">Subscribe →</a>
