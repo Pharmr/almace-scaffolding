@@ -66,5 +66,8 @@
     ">0.2%",
     "not dead",
     "not op_mini all"
-  ]
+  ],
+  "dependencies": {
+    "grunt-assemble": "^0.6.3"
+  }
 }
