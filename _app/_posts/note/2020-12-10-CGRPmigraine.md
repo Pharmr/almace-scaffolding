@@ -2,7 +2,7 @@
 layout: post
 title: CGRPmigraine
 category: note
-tags: CGRPmigraine
+tags: Protocols
 ---
 
 ## Quickstart 
