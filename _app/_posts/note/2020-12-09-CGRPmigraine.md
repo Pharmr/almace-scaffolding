@@ -7,6 +7,9 @@ tags: protocols
 
 ## Quickstart 
 
+<p class="largetype">
+  <a href=😭</a>
+</p>
 Protocol: **CGRPmigraine**  
 Subscription: **$10/month + cost of meds**    
 Creator: **[Dr. Sam Smith MD](https://github.com/sparanoid/almace-scaffolding)** 
