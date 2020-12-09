@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CGRPmigraine
+title: CGRPmigraine 😭
 category: note
 tags: protocols
 ---
