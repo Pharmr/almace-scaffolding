@@ -46,6 +46,8 @@ This protocol is available in the following states:
 
 <p style="color: #4AFF33">⭘ Accepting new patients</p>
 
+<p style="color: #fc9003">⭘ At capacity</p>
+
 <p style="color: #fc9003">⭘ Not accepting new patients</p>
 
 <p style="color: #999999">● Discontinued</p>
