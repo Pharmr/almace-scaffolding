@@ -17,8 +17,7 @@ tags: protocols
 <p class="largetype">CGRPmigraine 😭
 </p>
 
-<p class="largetype">CGRPmigraine 😭
-</p>
+<p class="largetype">CGRPmigraine 😭 </p>
 
 ## Quickstart 
 
