@@ -48,4 +48,4 @@ This protocol is available in the following states:
   <a href="{{ '/getting-started.html' | relative_url }}">Subscribe →</a>
 </p>
 
-<p style="color: #4AFF33">⚬ Status</p>
+<p style="color: #4AFF33">⬤ Status</p>
