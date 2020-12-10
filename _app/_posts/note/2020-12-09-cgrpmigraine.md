@@ -49,3 +49,17 @@ This protocol is available in the following states:
 </p>
 
 <p style="color: #4AFF33">⬤ Status</p>
+
+<p style="color: #4AFF33">⚬ Status</p>
+
+<p style="color: #4AFF33">● Status</p>
+
+<p style="color: #4AFF33">⭘ Status</p>
+
+
+
+
+
+
+
+
