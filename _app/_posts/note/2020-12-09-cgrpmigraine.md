@@ -5,9 +5,9 @@ category: note
 tags: protocols
 ---
 
-## Quickstart 
+[CGRPmigraine 😭]{: .largetype}
 
-[CGRPmigraine 😭] {: .largetype}
+## Quickstart 
 
 Protocol: **Anti CGRP migraine treatments for patients refractory to standard therapy**  
 Subscription: **$10/month + cost of meds**    
