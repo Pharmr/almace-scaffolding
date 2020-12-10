@@ -25,7 +25,7 @@ Help patients cruise on their chronic drug therapy so they more time do other st
 
 | Standard protocols | Complex conditions or therapeutics | Rare diseases & psychiatric services |
 |--------------------|------------------------------------|--------------------------------------|
-| $7/month/patient   | $14/month/patient                  | $21/month/patient                    |
+| $7/patient/month   | $14/patient/month                  | $21/patient/month                    |
 
 *Includes EMR, ID proofing, payment processing and other annoying stuff*
 
