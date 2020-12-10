@@ -11,4 +11,6 @@
   url:   /providers/
   
 - title: Sign in
-  url:   /nytimes.com
+  url: www.nytimes.com
+  
+<a href="www.nytimes.com">nyt</a>
