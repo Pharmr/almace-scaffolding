@@ -44,22 +44,14 @@ This protocol is available in the following states:
 
 <p style="color: #4AFF33">⭘ Active</p>
 
-<p style="color: #4AFF33">⭘ Accepting new patients</p>
+<p style="color: #6ceb72">⭘ Accepting new patients</p>
 
-<p style="color: #fc9003">● At capacity</p>
-
-<p style="color: #fc9003">⭘ Not accepting new patients</p>
+<p style="color: #fc9003">● Not accepting new patients</p>
 
 <p style="color: #999999">● Discontinued</p>
+
+<br>
 
 <p class="largetype">
   <a href="{{ '/getting-started.html' | relative_url }}">Subscribe →</a>
 </p>
-
-<p style="color: #4AFF33">⬤ Status</p>
-
-<p style="color: #4AFF33">⚬ Status</p>
-
-<p style="color: #4AFF33">● Status</p>
-
-<p style="color: #4AFF33">⭘ Status</p>
