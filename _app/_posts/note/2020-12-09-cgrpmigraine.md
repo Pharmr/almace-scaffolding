@@ -12,7 +12,6 @@ tags: protocols
 Protocol: **Anti CGRP migraine treatments for patients refractory to standard therapy**  
 Subscription: **$10/month + cost of meds**    
 Creator: **[Dr. Sam Smith MD](https://github.com/sparanoid/almace-scaffolding)**  
-Status: <p style="color: #4AFF33">●</p> Active
 Tags: `migraine`, `cgrp`, `emgality`, `neuro`  
 
 ## Summary
@@ -40,6 +39,16 @@ This protocol is available in the following states:
 - New York
 - Texas
 - Virgina
+
+## Status
+
+<p style="color: #4AFF33">⭘ Active</p>
+
+<p style="color: #4AFF33">⭘ Accepting new patients</p>
+
+<p style="color: #fc9003">⭘ Not accepting new patients</p>
+
+<p style="color: #999999">● Discontinued</p>
 
 <p class="largetype">
   <a href="{{ '/getting-started.html' | relative_url }}">Subscribe →</a>
