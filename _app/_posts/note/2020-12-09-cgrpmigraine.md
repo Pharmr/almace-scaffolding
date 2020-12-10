@@ -14,6 +14,12 @@ tags: protocols
 <p class="largetype">CGRPmigraine 😭</a>
 </p>
 
+<p class="largetype">CGRPmigraine 😭
+</p>
+
+<p class="largetype">CGRPmigraine 😭
+</p>
+
 ## Quickstart 
 
 Protocol: **Anti CGRP migraine treatments for patients refractory to standard therapy**  
@@ -27,7 +33,7 @@ Tags: `migraine`, `cgrp`, `emgality`, `neuro`
 
 ## Summary
 
-CGRP migraine treatment is a new type of treatment used to prevent and treat migraine pain. The medication blocks a protein called calcitonin gene-related peptide (CGRP). CGRP may cause inflammation and pain in the nervous system of people who have migraine attacks. This protocol is *for patients who are refractory to existing treatments* and are comfortable using pen injectors on themselves.
+CGRP migraine treatment is a new type of treatment used to prevent and treat migraine pain. The medication blocks a protein called calcitonin gene-related peptide (CGRP). CGRP may cause inflammation and pain in the nervous system of people who have migraine attacks. This protocol is ***for patients who are refractory to existing treatments and are comfortable using pen injectors on themselves***.
 
 ## Formulary 
 
