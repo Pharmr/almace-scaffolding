@@ -7,7 +7,7 @@
 # {{ author.web }}: used in atom feed
 # {{ author.twitter }}: used by Twitter Cards
 default:
-  name:         Dr Mark
+  name:         Dr. Sam Smith MD
   email:        mark@mps.health
   web:          https://pharmr.com/
   twitter:      mrkdrw
