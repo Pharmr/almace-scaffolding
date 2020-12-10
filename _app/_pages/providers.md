@@ -17,7 +17,7 @@ Help patients cruise on their chronic drug therapy so they more time do other st
 **Create your own [microservice](https://cranky-johnson-407f0c.netlify.app/cgrpmigraine.html)**  
 
 1. Choose a specific condition  
-2. Build your formulary with specific drugs or drug classes  
+2. Build your formulary with a specific drug, drugs or drug class  
 3. Create your onboarding and followup intake forms  
 4. Start accepting patients  
 
@@ -27,16 +27,16 @@ Help patients cruise on their chronic drug therapy so they more time do other st
 |--------------------|------------------------------------|--------------------------------------|
 | $7/patient/month   | $14/patient/month                  | $21/patient/month                    |
 
-*Includes EMR, ID proofing, payment processing and other annoying stuff*
+*Includes EMR, ID proofing, payment processing and other annoying stuff*  
 
-## Getting started
+## Getting started  
 
-You should be a US licensed physcian with no pending actions or malpractice suits
-Excellent conversing via remote & digital means
-Ability to manage your own lightweight practice, part time or full time (we'll be offering delegate support in the near future)
-Committed to doing something rad and taking the next leap in digital health
+You should be a US licensed physcian with no pending actions or malpractice suits.  
+Excellent conversing via remote & digital means.  
+Ability to manage your own lightweight practice, part time or full time (we'll be offering delegate support in the near future).  
+Committed to doing something rad and taking the next leap in digital health.  
 
-**Earn money helping patients access your specialty from all over the country (licensure permitting).**
+**Earn money helping patients access your specialty from all over the country (licensure permitting).**  
 
 <br>
 <p class="largetype">
