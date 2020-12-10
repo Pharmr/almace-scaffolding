@@ -35,10 +35,10 @@ Existing history of migraine refractory to standard treatment (e.g. NSAIDS, suma
 
 This protocol is available in the following states:
 
-California
-New York
-Texas
-Virgina
+California  
+New York  
+Texas  
+Virgina  
 
 ## Status
 
