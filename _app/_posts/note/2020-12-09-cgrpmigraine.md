@@ -20,12 +20,12 @@ CGRP migraine treatment is a new type of treatment used to prevent and treat mig
 
 ## Formulary 
 
-Aimovig® (erenumab-aooe) 70mg/ml pen injector 💉
-Aimovig® (erenumab-aooe) 140mg/ml pen injector 💉
-Ajovy® 225 mg/ml (fremanezumab) pen injector 💉
-Emgality® 120 mg/ml (galcanezumab-gnlm) pen injector 💉
-Ubrely™ (ubrogepant) 50mg tablet 💊
-Ubrely™ (ubrogepant) 100mg tablet 💊
+Aimovig® (erenumab-aooe) 70mg/ml pen injector 💉  
+Aimovig® (erenumab-aooe) 140mg/ml pen injector 💉  
+Ajovy® 225 mg/ml (fremanezumab) pen injector 💉  
+Emgality® 120 mg/ml (galcanezumab-gnlm) pen injector 💉  
+Ubrely™ (ubrogepant) 50mg tablet 💊  
+Ubrely™ (ubrogepant) 100mg tablet 💊  
 
 ## Eligibility 
 
