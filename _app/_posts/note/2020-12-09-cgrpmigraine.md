@@ -7,7 +7,7 @@ tags: protocols
 <br>
 <br>
 <br>
-# CGRPmigraine 😭
+<p class="largetype">CGRPmigraine 😭 </p>
 
 Protocol: **Anti CGRP migraine treatments for patients refractory to standard therapy**  
 Subscription: **$10/month + cost of meds**    
@@ -20,12 +20,12 @@ CGRP migraine treatment is a new type of treatment used to prevent and treat mig
 
 ## Formulary 
 
-1. Aimovig® (erenumab-aooe) 70mg/ml pen injector 💉
-2. Aimovig® (erenumab-aooe) 140mg/ml pen injector 💉
-3. Ajovy® 225 mg/ml (fremanezumab) pen injector 💉
-4. Emgality® 120 mg/ml (galcanezumab-gnlm) pen injector 💉
-5. Ubrely™ (ubrogepant) 50mg tablet 💊
-6. Ubrely™ (ubrogepant) 100mg tablet 💊
+Aimovig® (erenumab-aooe) 70mg/ml pen injector 💉
+Aimovig® (erenumab-aooe) 140mg/ml pen injector 💉
+Ajovy® 225 mg/ml (fremanezumab) pen injector 💉
+Emgality® 120 mg/ml (galcanezumab-gnlm) pen injector 💉
+Ubrely™ (ubrogepant) 50mg tablet 💊
+Ubrely™ (ubrogepant) 100mg tablet 💊
 
 ## Eligibility 
 
@@ -35,10 +35,10 @@ Existing history of migraine refractory to standard treatment (e.g. NSAIDS, suma
 
 This protocol is available in the following states:
 
-- California
-- New York
-- Texas
-- Virgina
+California
+New York
+Texas
+Virgina
 
 ## Status
 
