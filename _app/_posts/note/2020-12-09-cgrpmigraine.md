@@ -4,14 +4,18 @@ title: CGRPmigraine 😭
 category: note
 tags: protocols
 ---
-
+<br>
+<br>
+<br>
+<br>
 <p class="largetype">CGRPmigraine 😭 </p>
 
 ## Quickstart 
 
 Protocol: **Anti CGRP migraine treatments for patients refractory to standard therapy**  
 Subscription: **$10/month + cost of meds**    
-Creator: **[Dr. Sam Smith MD](https://github.com/sparanoid/almace-scaffolding)**  
+Creator: **[Dr. Sam Smith MD](https://github.com/sparanoid/almace-scaffolding)** 
+Status: <p style="color: #4AFF33">● Active</p>
 Tags: `migraine`, `cgrp`, `emgality`, `neuro`  
 
 <p class="largetype">
