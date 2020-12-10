@@ -5,7 +5,14 @@ category: note
 tags: protocols
 ---
 
-[CGRPmigraine 😭]{: .largetype}
+[CGRPmigraine 😭] {: .largetype}  
+
+<span style="font-size:larger;">CGRPmigraine 😭</span>  
+
+<span style="font-size:largetype;">CGRPmigraine 😭</span>  
+
+<p class="largetype">CGRPmigraine 😭</a>
+</p>
 
 ## Quickstart 
 
