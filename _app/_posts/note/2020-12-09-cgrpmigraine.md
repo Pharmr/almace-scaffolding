@@ -7,7 +7,7 @@ tags: protocols
 <br>
 <br>
 <br>
-<p class="largetype">CGRPmigraine 😭 </p>
+# CGRPmigraine 😭
 
 Protocol: **Anti CGRP migraine treatments for patients refractory to standard therapy**  
 Subscription: **$10/month + cost of meds**    
