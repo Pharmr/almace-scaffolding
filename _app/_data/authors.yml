@@ -7,10 +7,10 @@
 # {{ author.web }}: used in atom feed
 # {{ author.twitter }}: used by Twitter Cards
 default:
-  name:         Tunghsiao Liu
-  email:        t@sparanoid.com
-  web:          https://sparanoid.com/
-  twitter:      tunghsiao
+  name:         Dr Mark
+  email:        mark@mps.health
+  web:          https://pharmr.com/
+  twitter:      mrkdrw
 
 tester:
   name:         Tester
