@@ -5,6 +5,13 @@ permalink: /about/
 desc: 示例頁面・サンプルページ・Example Page
 ---
 
+<body>
+      <h1>Tutorial</h1>
+      <p style="text-align:center;">One Front-end to Rule Them All  
+
+Create blazing fast websites and apps AND harness the power of 2000+ plugins</p>
+   </body>
+
 This is an example About page.
 
 Sparanoid is a design studio operated by Tunghsiao Liu. You can ping me on [Twitter](https://twitter.com/tunghsiao) or send correspondence to [t@sparanoid.com](mailto:t@sparanoid.com).
