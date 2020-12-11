@@ -5,12 +5,14 @@ permalink: /about/
 desc: 示例頁面・サンプルページ・Example Page
 ---
 
-<body>
-      <h1>Tutorial</h1>
-      <p style="text-align:center;">One Front-end to Rule Them All  
+heading-img: svg/logo-netify-82.svg
+heading-img-local: true
+heading-img-width: 400
 
-Create blazing fast websites and apps AND harness the power of 2000+ plugins</p>
-   </body>
+One Front-end to
+Rule Them All
+
+Create blazing fast websites and apps AND harness the power of 2000+ plugins
 
 This is an example About page.
 
