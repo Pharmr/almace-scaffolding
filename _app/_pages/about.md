@@ -9,6 +9,8 @@ desc: 示例頁面・サンプルページ・Example Page
 
 # Pharmr makes it easy to get, reorder, request and switch between drugs of similar classes. So you can cruise indefinitly on your lispro, humira or bycktarvy and never miss a dose.
 
+Pharmr is about putting pro healthcare tools in the hands of chronic care patients so they can self manage and have more time to do other shit.
+
 One Front-end to
 Rule Them All
 
