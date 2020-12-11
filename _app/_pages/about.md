@@ -5,9 +5,9 @@ permalink: /about/
 desc: 示例頁面・サンプルページ・Example Page
 ---
 
-heading-img: svg/logo-netify-82.svg
-heading-img-local: true
-heading-img-width: 400
+# Being sick sucks. Managing your drug therapy doesn't have to.  
+
+# Pharmr makes it easy to get, reorder, request and switch between drugs of similar classes. So you can cruise indefinitly on your lispro, humira or bycktarvy and never miss a dose.
 
 One Front-end to
 Rule Them All
