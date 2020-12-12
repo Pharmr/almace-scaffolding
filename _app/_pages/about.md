@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Being sick sucks 👎🏽
+title: We're on a mission to make 'being sick' suck less
 permalink: /about/
 desc: Managing your drug therapy doesn't have to
 ---
