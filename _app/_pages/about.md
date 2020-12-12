@@ -87,6 +87,16 @@ Social media something something
 <br>
 
 
+ ____    ___ ____ ____   ____       _________   __ __  _       _______ __    __ __  _ _____
+|    \  /  _|    |    \ /    |     / ___|    | /  |  |/ ]     / ___|  |  |  /  |  |/ / ___/
+|  o  )/  [_ |  ||  _  |   __|    (   \_ |  | /  /|  ' /     (   \_|  |  | /  /|  ' (   \_ 
+|     |    _]|  ||  |  |  |  |     \__  ||  |/  / |    \      \__  |  |  |/  / |    \\__  |
+|  O  |   [_ |  ||  |  |  |_ |     /  \ ||  /   \_|     \     /  \ |  :  /   \_|     /  \ |
+|     |     ||  ||  |  |     |     \    ||  \     |  .  |     \    |     \     |  .  \    |
+|_____|_____|____|__|__|___,_|      \___|____\____|__|\_|      \___|\__,_|\____|__|\_|\___|
+                                                                                           
+
+
 # Being sick sucks. Managing your drug therapy doesn't have to.  
 
 # Pharmr makes it easy to get, reorder, request and switch between drugs of similar classes. So you can cruise indefinitly on your lispro, humira or bycktarvy and never miss a dose.  
