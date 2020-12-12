@@ -28,8 +28,16 @@ Check in on the regular
 Ask your doctor questions as they arise  
 
 # 🏄  
-Keep cruising  
+Reup or refill and keep cruising  
 <br>
+
+|                                                 |
+|-------------------------------------------------|
+| \# 🔎  Find your protocol, apply & subscribe    |
+| \# 📦  Get meds and have them shipped to you    |
+| \# 📲  Check in on the regular                  |
+| \# 💬  Ask your doctor questions as they arise  |
+| \# 🏄  Reup or refill and keep cruising         |
 
 ![Image](https://sparanoid.com/logo.png)
 {: .browser}
