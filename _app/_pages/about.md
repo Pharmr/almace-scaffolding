@@ -5,7 +5,7 @@ permalink: /about/
 desc: Managing your drug therapy doesn't have to
 ---
 
-# Pharmr makes it easy to manage your maintenance or continuation therapy online so you never miss a dose  
+# Pharmr makes it easy to manage your maintenance or continuation therapy online so you never miss a dose.  
 <br>
 ☺ Get, refill, reorder and easily switch between drugs of the same class  
 ☺ Each protocol run by a specialist who knows your specific condition and medications  
@@ -63,7 +63,7 @@ Awesome. Read about the process [here](https://www.ncbi.nlm.nih.gov/pmc/articles
 In a word, no. [Assisted self management](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4103232/) is the cornerstone of chronic care. We just brought it online. However, if you’re uncomfortable having lightweight interactions with a provider, require frequent hospitalizations or lots of support, or don’t feel comfortable managing your condition virtually, this platform is not for you. 
 
 **What pharmacies do you support?**  
-Technically, we support all pharmacies that allow for digital prescribing (ie e-prescribe). A newer generation of pharmacy exists that are api driven and integrated directly into our platform. When you place your order, your money will be held immediately and your request shipped right away if prescribed. This cuts down significantly on administrative work for the patient. We call this **instant fill**. Unfortunately, it’s only supported by a small number of pharmacies at the moment. To access the rest, choose the “Fill on my own” option or FOMO to send a legacy prescription to a pharmacy of your choosing. You’ll be responsible for paying for the drugs yourself as well as shipping or local pickup. Bear in mind, with the FOMO option, there may be extreme variability in drug pricing and insurance benefits coverage because —- well, this is America!
+Technically, we support all pharmacies that allow for digital prescribing (ie e-prescribe). A newer generation of pharmacy exists that are api driven and integrated directly into our platform. When you place your order, your money will be held immediately and your request shipped right away if prescribed. This cuts down significantly on administrative work for the patient. We call this **instant fill**. Unfortunately, it’s only supported by a small number of pharmacies at the moment. To access the rest, choose the “Fill on my own” option or FOMO to send a legacy prescription to a pharmacy of your choosing. You’ll be responsible for paying for the drugs yourself as well as shipping or local pickup. Bear in mind, with the FOMO option, there may be extreme variability in drug pricing and insurance benefits coverage and we cannot gaurenteed a particular price. 
 
 **Is Pharmr a pharmacy?**  
 No. Pharmr is a technology platform that connects chronic care patients to physicians and pharmacies. 
