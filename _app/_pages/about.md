@@ -48,7 +48,7 @@ Otherwise, **happy cruising 🏄**.
 # FAQ 
 <br>
 **How much does it cost?**  
-All protocols are monthly subscriptions that range from $10-$30/month (based on complexity) + the cost of drugs. 
+All protocols are monthly subscriptions that range from $10-$30/month + the cost of drugs. They can canceled or restarted at any time.  
 
 **Can I use insurance?**  
 You can! Though we’re initially focusing on the cash payers experience. All protocol subscriptions are by credit card only (no insurance reimbursement), though you may use your insurance for drug fulfillment. 
