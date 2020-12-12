@@ -4,7 +4,8 @@ title: Being sick sucks 👎🏽
 permalink: /about/
 desc: Managing your drug therapy doesn't have to
 ---
-
+![Image](https://cdn.dribbble.com/users/125948/screenshots/3856510/med-color-icons.jpg){: .no-resize.center}  
+<br>
 # Pharmr makes it easy to manage your maintenance or continuation therapy online so you never miss a dose.  
 <br>
 ☺ Get, refill, reorder and easily switch between drugs of the same class  
@@ -15,7 +16,7 @@ desc: Managing your drug therapy doesn't have to
 <br>
 # How it works  
   
-![Image](https://images.ctfassets.net/vkdbses00qqt/h7RP1nspwFDZsZEGdGY4n/07bff085583e644a70c1c81a85d21c88/plugins-icon.svg){: .size-small.center}  
+![Image](https://images.ctfassets.net/vkdbses00qqt/h7RP1nspwFDZsZEGdGY4n/07bff085583e644a70c1c81a85d21c88/plugins-icon.svg){: .no-resize.center}  
 
 Find your protocol, apply & subscribe  
 
