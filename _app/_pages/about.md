@@ -9,10 +9,10 @@ desc:
 # Pharmr makes it easy to manage your maintenance or continuation therapy online so you never miss a dose.  
 <br>
 ![Image](https://bubbleblabber-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/lazor-wulf2.jpg){: .no-resize.center}  
-
-# What this means 
-
-☺ Pharmr is a subscription based technology stack purposely built for daily medication takers  
+<br>
+# What this means
+<br>
+☺ Pharmr is a subscription-based tech stack built for daily medication takers  
 ☺ *Get*, *refill*, *reorder* and easily *switch between drugs of the same class* for your condition  
 ☺ Each protocol run by a specialist who knows your diagnosis & particular drug therapy inside and out  
 ☺ Cruise indefinitely on your Humira®, Byktarvi® or Lispro® without interruption  
@@ -52,7 +52,7 @@ Otherwise, **happy cruising 🏄**.
 # FAQ 
 <br>
 **How much does it cost?**  
-[All protocols](https://cranky-johnson-407f0c.netlify.app/) are monthly subscriptions that range from **$10-$30/month + the cost of drugs**. You can cancel or restart at any time.  
+All protocols are monthly subscriptions that range from $10-$30/month + the cost of drugs. You can cancel or restart at any time.  
 
 **Can I use insurance?**  
 You can! Though we’re initially focusing on the cash payers experience. All protocol subscriptions are by credit card only (no insurance reimbursement), though you may use your insurance for drug fulfillment. 
@@ -73,7 +73,7 @@ In a word, no. [Assisted self management](https://www.ncbi.nlm.nih.gov/pmc/artic
 Technically, we support all pharmacies that allow for digital prescribing (ie e-prescribe). A newer generation of pharmacy exists that are api driven and integrated directly into our platform. When you place your order, your money will be held immediately and your request shipped right away if prescribed. This cuts down significantly on administrative work for the patient. We call this **instant fill**. Unfortunately, it’s only supported by a small number of pharmacies at the moment. To access the rest, choose the “Fill on my own” option or FOMO to send a legacy prescription to a pharmacy of your choosing. You’ll be responsible for paying for the drugs yourself as well as shipping or local pickup. Bear in mind, with the FOMO option, there may be extreme variability in drug pricing and insurance benefits coverage and we cannot gaurenteed a particular price. 
 
 **I take a scheduled drug. Can I still use Pharmr?**  
-At the momement no, but we plan to support this in the future. Controlled substances require additional logic and rules around how their handled (particularly in regards to refills, transfers and delivery).   
+At the momement no, but we plan to support this in the future. Controlled substances require additional logic and rules around how the prescriptions are handled (particularly in regards to refills, transfers and delivery).   
 
 **Is Pharmr a pharmacy or a medical practice?**  
 Neither. Pharmr is a technology platform that connects chronic care patients to physicians and pharmacies. 
