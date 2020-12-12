@@ -2,7 +2,7 @@
 layout: page
 title: We're on a mission to make 'being sick' suck less
 permalink: /about/
-desc: # Managing your drug therapy doesn't have to be so hard
+desc: 
 ---
 # Drug therapy is *hard*.  
 # But it doesn't have to be.  
@@ -10,26 +10,13 @@ desc: # Managing your drug therapy doesn't have to be so hard
 <br>
 ![Image](https://bubbleblabber-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/lazor-wulf2.jpg){: .no-resize.center}  
 
-# Why should I care
-<br>
+# What that means 
+
 ☺ It's a (subscription based) technology stack purposely built for daily medication takers  
 ☺ *Get*, *refill*, *reorder* and easily *switch between drugs of the same class*  
 ☺ Each protocol run by a specialist who knows your specific condition & medication inside and out  
 ☺ Cruise indefinitely on your Humira®, Byktarvi® or Lispro® without skipping a beat  
 ☺ Do other things and stop worrying about your meds  
-
-<p align="center">
- 
-# Pharmr makes it easy to manage your maintenance or continuation therapy online so you never miss a dose.  
-
-![Image](https://bubbleblabber-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/lazor-wulf2.jpg){: .no-resize.center}  
-
-☺ Get, refill, reorder and easily switch between drugs of the same class  
-☺ Each protocol run by a specialist who knows your specific condition and medications  
-☺ Cruise indefinitely on your Humira®, Byktarvi® or Lispro® without missing a beat  
-☺ Do other things and stop worrying about your meds  
-
-</p>
 
 <br>
 # How it works  
@@ -42,7 +29,7 @@ Find your protocol, apply & subscribe
 Get meds and have them shipped to you  
 
 # 📲  
-Check in on the regular via our app  
+Check in on the regular via our `followup`  
 
 # 💬  
 Ask your doctor questions as they arise  
@@ -109,6 +96,19 @@ We need the following super talented people to help us deliver our vision:
 <br>
 <br>
 
+
+<p align="center">
+ 
+# Pharmr makes it easy to manage your maintenance or continuation therapy online so you never miss a dose.  
+
+![Image](https://bubbleblabber-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/lazor-wulf2.jpg){: .no-resize.center}  
+
+☺ Get, refill, reorder and easily switch between drugs of the same class  
+☺ Each protocol run by a specialist who knows your specific condition and medications  
+☺ Cruise indefinitely on your Humira®, Byktarvi® or Lispro® without missing a beat  
+☺ Do other things and stop worrying about your meds  
+
+</p>
 
 # Being sick sucks. Managing your drug therapy doesn't have to.  
 
