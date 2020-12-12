@@ -5,7 +5,7 @@ permalink: /about/
 desc: Managing your drug therapy doesn't have to
 ---
 
-# Pharmr makes it easy to manage your [maintenance or continuation therapy online](https://member.carefirst.com/carefirst-resources/pdf/2019-maintenance-drug-list-sum2723.pdf) so you never miss a dose.  
+# Pharmr makes it easy to manage your [maintenance or continuation therapy] online(https://member.carefirst.com/carefirst-resources/pdf/2019-maintenance-drug-list-sum2723.pdf) so you never miss a dose.  
 <br>
 ☺ Get, refill, reorder and easily switch between drugs of the same class  
 ☺ Each protocol run by a specialist who knows your specific condition and medications  
