@@ -9,8 +9,8 @@ desc: Managing your drug therapy doesn't have to
 <br>
 ☺ Get, refill, reorder and easily switch between drugs of the same class  
 ☺ Each protocol run by a specialist who knows your specific condition and medications  
-☺ Cruise indefinitely on your Humira®, Byktarvi® or Lispro® without missing a beat  
-☺ Do other things and stop worry about your meds  
+☺ Cruise indefinitely on your Humira®, Byktarvi® or [____________]® without missing a beat  
+☺ Do other things and stop worrying about your meds  
 
 <br>
 # How it works  
