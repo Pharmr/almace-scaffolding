@@ -2,15 +2,15 @@
 layout: page
 title: Being sick sucks
 permalink: /about/
-desc: Pharmr makes it easy to manage your maintaince or continuation therapy online; get, refill, reorder and easily switch between drugs of the same class. Each protocol run by a specialist who intimately knows your condition and medications. So you can cruise indefinitely on your Humira, Byktarvi or Lispro without ever missing a beat.
+desc: Pharmr is a new way to get your maintenance meds and manage your condition online
 ---
 
 # **Pharmr makes it easy to manage your maintaince or continuation therapy online; get, refill, reorder and easily switch between drugs of the same class.** Each protocol run by a specialist who intimately knows your condition and medications. So you can cruise indefinitely on your Humira, Byktarvi or Lispro without ever missing a beat.  
 
 <br>
 <br>
-**How it works** 
-
+# How it works
+<br>
 # 🔎  
 Find your protocol and subscribe  
 
@@ -28,7 +28,7 @@ Keep cruising
 <br>
 
 # Why  
-
+<br>
 *The cornerstone of staying healthy is taking your shit-everyday.* But they don’t make it easy.  Prior authorizations, different formulated, substitutions, new insurance, new job, new state, specialist referrals. 
 
 Pharmr was built by patients like you to put you in charge of your own scripts and care. Long term drug therapy is a different beast from diagnosis or initial treatment, so it’s time we do it differently. 
@@ -39,7 +39,7 @@ We put pro level health tools in the hands of patients. We only ask that you to 
 
 
 # FAQ 
-
+<br>
 **How much does it cost**  
 All protocols are monthly subscriptions that range from $10-$30/month (depending on complexity) + the cost of drugs. 
 
