@@ -12,10 +12,10 @@ desc:
 
 # What this means 
 
-☺ It's a (subscription based) technology stack purposely built for daily medication takers  
+☺ Pharmr is a subscription based technology stack purposely built for daily medication takers  
 ☺ *Get*, *refill*, *reorder* and easily *switch between drugs of the same class* for your condition  
-☺ Each protocol run by a specialist who knows your specific condition & medication inside and out  
-☺ Cruise indefinitely on your Humira®, Byktarvi® or Lispro® without skipping a beat  
+☺ Each protocol run by a specialist who knows your diagnosis & particular drug therapy inside and out  
+☺ Cruise indefinitely on your Humira®, Byktarvi® or Lispro® without interruption  
 ☺ Do other things and stop worrying about your meds  
 
 <br>
