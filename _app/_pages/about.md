@@ -9,7 +9,6 @@ desc:
 # Pharmr makes it easy to manage your maintenance or continuation therapy online so you never miss a dose.  
 <br>
 ![Image](https://bubbleblabber-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/lazor-wulf2.jpg){: .no-resize.center}  
-<br>
 # What this means
 <br>
 ☺ Pharmr is a subscription-based tech stack built for daily medication takers  
