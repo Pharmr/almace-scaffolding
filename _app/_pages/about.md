@@ -31,6 +31,9 @@ Ask your doctor questions as they arise
 Keep cruising  
 <br>
 
+![Image](https://sparanoid.com/logo.png)
+{: .browser}
+
 # Why  
 <br>
 The cornerstone of staying healthy is taking your meds-*everyday*. But they don’t make it easy. Prior authorizations, different formularies, substitutions, new insurance, new job, new state, deductibles, specialist referrals. 
