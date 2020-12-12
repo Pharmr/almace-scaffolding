@@ -5,16 +5,16 @@ permalink: /about/
 desc: Managing your drug therapy doesn't have to
 ---
 
-# With Pharmr, we make it easy to manage your maintenance or continuation therapy online so you never miss a dose;  
+# Pharmr makes it easy to manage your maintenance or continuation therapy online so you never miss a dose;  
 <br>
 ☺ Get, refill, reorder and easily switch between drugs of the same class  
 ☺ Each protocol run by a specialist who knows your condition and medications  
-☺ Cruise indefinitely on your Humira, Byktarvi or Lispro without ever missing a beat  
+☺ Cruise indefinitely on your *Humira*, *Byktarvi* or *Lispro* without ever missing a beat  
 ☺ Do other things and stop worry about your meds  
 
-
-# How it works  
 <br>
+# How it works  
+  
 # 🔎  
 Find your protocol and subscribe  
 
@@ -33,21 +33,21 @@ Keep cruising
 
 # Why  
 <br>
-*The cornerstone of staying healthy is taking your shit-everyday.* But they don’t make it easy.  Prior authorizations, different formularies, substitutions, new insurance, new job, new state, specialist referrals. 
+*The cornerstone of staying healthy is taking your meds-everyday.* But they don’t make it easy. Prior authorizations, different formularies, substitutions, new insurance, new job, new state, specialist referrals. 
 
 Pharmr was built by patients like you to put you in charge of your own scripts and care. Long term drug therapy is a different beast from diagnosis or initial treatment, so it’s time we do it differently. 
 
-We put pro level health tools in the hands of patients. We only ask that you to check in regularly, be honest, and when stuff gets weird, you chat with your assigned provider right away. That’s the bargain. 
+We've put pro level health tools in the hands of chronic care patients. We only ask that you to check in regularly, be honest, and when stuff gets weird, you chat with your assigned provider right away. That’s the bargain. 
 
 **Happy cruising 🏄**
 <br>
 <br>
 # FAQ 
 <br>
-**How much does it cost**  
+**How much does it cost?**  
 All protocols are monthly subscriptions that range from $10-$30/month (based on complexity) + the cost of drugs. 
 
-**Can I use insurance**  
+**Can I use insurance?**  
 You can! Though we’re initially focusing on the cash payers experience. All protocol subscriptions are by credit card only (no insurance reimbursement), though you may use your insurance for drug fulfillment. 
 
 **My therapy or condition isn’t listed**  
@@ -59,13 +59,13 @@ In most cases yes, but it’s up to the individual protocol physician. Some diag
 **I’m a provider and want to sign up**  
 Awesome. Read about the process [here](www.google.com) and let’s link up. 
 
-**Is self management dangerous**   
-In a word, no. Assisted self management is the cornerstone of chronic care. We just brought it online. However, if you’re uncomfortable having lightweight interactions with a provider, require frequent hospitalizations or lots of support, or don’t feel comfortable managing your condition virtually, this platform is not for you. 
+**Is self management dangerous?**   
+In a word, no. [Assisted self management](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4103232/) is the cornerstone of chronic care. We just brought it online. However, if you’re uncomfortable having lightweight interactions with a provider, require frequent hospitalizations or lots of support, or don’t feel comfortable managing your condition virtually, this platform is not for you. 
 
-**What pharmacies do you support**  
+**What pharmacies do you support?**  
 Technically, we support all pharmacies that allow for digital prescribing (ie e-prescribe). A newer generation of pharmacy exists that are api driven and integrated directly into our platform. When you place your order, your money will be held immediately and your request shipped right away if prescribed. This cuts down significantly on administrative work for the patient. We call this **instant fill**. Unfortunately, it’s only supported by a small number of pharmacies at the moment. To access the rest, choose the “Fill on my own” option or FOMO to send a legacy prescription to a pharmacy of your choosing. You’ll be responsible for paying for the drugs yourself as well as shipping or local pickup. Bear in mind, with the FOMO option, there may be extreme variability in drug pricing and insurance benefits coverage because —- well, this is America!
 
-**Is Pharmr a pharmacy**  
+**Is Pharmr a pharmacy?**  
 No. Pharmr is a technology platform that connects chronic care patients to physicians and pharmacies. 
 
 **This is cool. How can I help?**  
