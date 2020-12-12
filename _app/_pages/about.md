@@ -5,11 +5,11 @@ permalink: /about/
 desc: Managing your drug therapy doesn't have to
 ---
 
-# Pharmr makes it easy to manage your maintenance or continuation therapy online so you never miss a dose;  
+# Pharmr makes it easy to manage your maintenance or continuation therapy online so you never miss a dose  
 <br>
 ☺ Get, refill, reorder and easily switch between drugs of the same class  
-☺ Each protocol run by a specialist who knows your condition and medications  
-☺ Cruise indefinitely on your *Humira*, *Byktarvi* or *Lispro* without ever missing a beat  
+☺ Each protocol run by a specialist who knows your specific condition and medications  
+☺ Cruise indefinitely on your Humira®, Byktarvi® or Lispro® without missing a beat  
 ☺ Do other things and stop worry about your meds  
 
 <br>
@@ -33,13 +33,13 @@ Keep cruising
 
 # Why  
 <br>
-*The cornerstone of staying healthy is taking your meds-everyday.* But they don’t make it easy. Prior authorizations, different formularies, substitutions, new insurance, new job, new state, specialist referrals. 
+The cornerstone of staying healthy is taking your meds-*everyday*. But they don’t make it easy. Prior authorizations, different formularies, substitutions, new insurance, new job, new state, deductibles, specialist referrals. 
 
 Pharmr was built by patients like you to put you in charge of your own scripts and care. Long term drug therapy is a different beast from diagnosis or initial treatment, so it’s time we do it differently. 
 
 We've put pro level health tools in the hands of chronic care patients. We only ask that you to check in regularly, be honest, and when stuff gets weird, you chat with your assigned provider right away. That’s the bargain. 
 
-**Happy cruising 🏄**
+Otherwise, **happy cruising 🏄**.  
 <br>
 <br>
 # FAQ 
@@ -57,7 +57,7 @@ The hard thing about launching a platform is the initial content. We’re workin
 In most cases yes, but it’s up to the individual protocol physician. Some diagnoses can be made as a clinical decision via telehealth, while others require more thorough examination or testing. 
 
 **I’m a provider and want to sign up**  
-Awesome. Read about the process [here](www.google.com) and let’s link up. 
+Awesome. Read about the process [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4103232/) and let’s link up. 
 
 **Is self management dangerous?**   
 In a word, no. [Assisted self management](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4103232/) is the cornerstone of chronic care. We just brought it online. However, if you’re uncomfortable having lightweight interactions with a provider, require frequent hospitalizations or lots of support, or don’t feel comfortable managing your condition virtually, this platform is not for you. 
