@@ -5,7 +5,7 @@ permalink: /about/
 desc: Managing your drug therapy doesn't have to
 ---
 
-# Pharmr makes it easy to manage your maintenance or continuation therapy online so you never miss a dose.  
+# Pharmr makes it easy to manage your [maintenance or continuation therapy online](https://member.carefirst.com/carefirst-resources/pdf/2019-maintenance-drug-list-sum2723.pdf) so you never miss a dose.  
 <br>
 ☺ Get, refill, reorder and easily switch between drugs of the same class  
 ☺ Each protocol run by a specialist who knows your specific condition and medications  
@@ -44,7 +44,7 @@ Reup or refill and keep cruising
 
 # Why  
 <br>
-The cornerstone of staying healthy is taking your meds—*every day*. But they don’t make it easy. Prior authorizations, different formularies, substitutions, new insurance, new job, new state, deductibles, specialist referrals. 
+The cornerstone of staying healthy is taking your meds—*every day*. But they don’t make it easy. Prior authorizations, different formularies, substitutions, new insurance, new job, new state, deductibles, specialist referrals.  
 
 Pharmr was built by patients like you to put you in charge of your own scripts and care. Long term drug therapy is a different beast from diagnosis or initial treatment, so it’s time we do it differently. 
 
