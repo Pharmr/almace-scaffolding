@@ -5,11 +5,10 @@ permalink: /about/
 desc: Managing your drug therapy doesn't have to
 ---
 
-# Pharmr makes it easy to manage your [maintenance or continuation therapy](https://member.carefirst.com/carefirst-resources/pdf/2019-maintenance-drug-list-sum2723.pdf) online so you never miss a dose.  
+# Pharmr makes it easy to manage your maintenance or continuation therapy online so you never miss a dose.  
 
 ![Image](https://sparanoid.com/logo.png){: .no-resize.center}
 
-<br>
 ☺ Get, refill, reorder and easily switch between drugs of the same class  
 ☺ Each protocol run by a specialist who knows your specific condition and medications  
 ☺ Cruise indefinitely on your Humira®, Byktarvi® or Lispro® without missing a beat  
@@ -71,12 +70,12 @@ Technically, we support all pharmacies that allow for digital prescribing (ie e-
 **Is Pharmr a pharmacy?**  
 No. Pharmr is a technology platform that connects chronic care patients to physicians and pharmacies. 
 
-**Do you support Scheduled drugs?**
+**Do you support Scheduled drugs?**  
 At the momement no, but we plan to in the future. Controlled substances require additional logic and rules around how their handled (particalarly in regards to refills, transfers and item shipping).   
 
-**What's maintenance or continuation therapy?**
+**What's maintenance or continuation therapy?**  
 Maintenance drugs are medications prescribed to treat chronic, long-term conditions and are taken on a
-regular,recurring basis. Examples of maintenance drugs are those used to treat ADHD, asthma, diabetes, HIV, or Crohn's Disease. A decent list can be found [here](https://member.carefirst.com/carefirst-resources/pdf/2019-maintenance-drug-list-sum2723.pdf) ### pdf link out  
+regular,recurring basis. Examples of maintenance drugs are those used to treat ADHD, asthma, diabetes, HIV, or Crohn's Disease. A larger list can be found [here](https://member.carefirst.com/carefirst-resources/pdf/2019-maintenance-drug-list-sum2723.pdf)  
 
 **This is cool. How can I help?**  
 We need the following super talented people to help us deliver our vision:  
