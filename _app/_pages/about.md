@@ -33,31 +33,31 @@ Keep cruising
 
 # Why  
 <br>
-*The cornerstone of staying healthy is taking your shit-everyday.* But they don’t make it easy.  Prior authorizations, different formulated, substitutions, new insurance, new job, new state, specialist referrals. 
+*The cornerstone of staying healthy is taking your shit-everyday.* But they don’t make it easy.  Prior authorizations, different formularies, substitutions, new insurance, new job, new state, specialist referrals. 
 
 Pharmr was built by patients like you to put you in charge of your own scripts and care. Long term drug therapy is a different beast from diagnosis or initial treatment, so it’s time we do it differently. 
 
-We put pro level health tools in the hands of patients. We only ask that you to check in occasionally, be honest, and when stuff gets weird, you chat with one of our doctors right away. That’s the bargain. 
+We put pro level health tools in the hands of patients. We only ask that you to check in regularly, be honest, and when stuff gets weird, you chat with your assigned provider right away. That’s the bargain. 
 
 **Happy cruising 🏄**
 <br>
-
+<br>
 # FAQ 
 <br>
 **How much does it cost**  
-All protocols are monthly subscriptions that range from $10-$30/month (depending on complexity) + the cost of drugs. 
+All protocols are monthly subscriptions that range from $10-$30/month (based on complexity) + the cost of drugs. 
 
 **Can I use insurance**  
 You can! Though we’re initially focusing on the cash payers experience. All protocol subscriptions are by credit card only (no insurance reimbursement), though you may use your insurance for drug fulfillment. 
 
 **My therapy or condition isn’t listed**  
-The hard thing about launching a platform is the initial content. We’re working on it! If you have suggestions or particular requests send us a note here: request@pharmr.com or make a post on our Reddit r/Pharmr 
+The hard thing about launching a platform is the initial content. We’re working on it! If you have suggestions or particular requests send us a note here: request@pharmr.com or make a post on our Reddit [r/Pharmr](https://www.reddit.com/r/Pharmr/) 
 
 **Do I need a prior diagnosis?**  
-In most cases yes, but It’s up to the individual protocol physician. some diagnoses can be made as a clinical decisions via telehealth, while others require more thorough examination or testing. 
+In most cases yes, but it’s up to the individual protocol physician. Some diagnoses can be made as a clinical decision via telehealth, while others require more thorough examination or testing. 
 
 **I’m a provider and want to sign up**  
-Awesome. Read about the process here and  let’s link up. 
+Awesome. Read about the process [here](www.google.com) and let’s link up. 
 
 **Is self management dangerous**   
 In a word, no. Assisted self management is the cornerstone of chronic care. We just brought it online. However, if you’re uncomfortable having lightweight interactions with a provider, require frequent hospitalizations or lots of support, or don’t feel comfortable managing your condition virtually, this platform is not for you. 
