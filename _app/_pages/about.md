@@ -1,8 +1,8 @@
 ---
 layout: page
-title: We're on a mission to make 'being sick' suck less 🎉
+title: We're on a mission to make 'being sick' suck less
 permalink: /about/
-desc: Managing your drug therapy doesn't have to be so hard
+desc: # Managing your drug therapy doesn't have to be so hard
 ---
 # Pharmr makes it easy to manage your maintenance or continuation therapy online so you never miss a dose.  
 ![Image](https://bubbleblabber-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/lazor-wulf2.jpg){: .no-resize.center}  
