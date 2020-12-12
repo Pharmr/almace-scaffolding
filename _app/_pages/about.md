@@ -2,19 +2,19 @@
 layout: page
 title: Being sick sucks
 permalink: /about/
-desc: Pharmr is a new way to get your maintenance meds and manage your condition online
+desc: Managing your drug therapy doesn't have to
 ---
 
-# With Pharmr, we make it easy to manage your maintenance or continuation therapy online;  
+# With Pharmr, we make it easy to manage your maintenance or continuation therapy online so you never miss a dose;  
 <br>
 ☺ Get, refill, reorder and easily switch between drugs of the same class  
 ☺ Each protocol run by a specialist who knows your condition and medications  
 ☺ Cruise indefinitely on your Humira, Byktarvi or Lispro without ever missing a beat  
 ☺ Do other things and stop worry about your meds  
 
-<br>
-# How it works  
 
+# How it works  
+<br>
 # 🔎  
 Find your protocol and subscribe  
 
