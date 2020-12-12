@@ -2,12 +2,13 @@
 layout: page
 title: Being sick sucks
 permalink: /about/
-desc: 示例頁面・サンプルページ・Example Page
+desc: Pharmr makes it easy to manage your maintaince or continuation therapy online; get, refill, reorder and easily switch between drugs of the same class.** Each protocol run by a specialist who intimately knows your condition and medications. So you can cruise indefinitely on your Humira, Byktarvi or Lispro without ever missing a beat.
 ---
 
-# Pharmr makes it easy to manage your maintaince or continuation therapy online; get, refill, reorder and easily switch between drugs of the same class. Each protocol run by a specialist who intimately knows your condition and medications. So you can cruise indefinitely on your Humira, Byktarvi or Lispro without ever missing a beat.  
+# **Pharmr makes it easy to manage your maintaince or continuation therapy online; get, refill, reorder and easily switch between drugs of the same class.** Each protocol run by a specialist who intimately knows your condition and medications. So you can cruise indefinitely on your Humira, Byktarvi or Lispro without ever missing a beat.  
 
-
+<br>
+<br>
 **How it works** 
 
 # 🔎  
@@ -24,9 +25,9 @@ Ask your doctor questions as they arise
 
 # 🏄  
 Keep cruising  
+<br>
 
-
-**Why**
+# Why  
 
 *The cornerstone of staying healthy is taking your shit-everyday.* But they don’t make it easy.  Prior authorizations, different formulated, substitutions, new insurance, new job, new state, specialist referrals. 
 
