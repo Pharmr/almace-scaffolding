@@ -4,10 +4,8 @@ title: Being sick sucks 👎🏽
 permalink: /about/
 desc: Managing your drug therapy doesn't have to
 ---
-![Image](https://cdn.dribbble.com/users/125948/screenshots/3856510/med-color-icons.jpg){: .no-resize.center}  
-<br>
 # Pharmr makes it easy to manage your maintenance or continuation therapy online so you never miss a dose.  
-<br>
+![Image](https://bubbleblabber-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/lazor-wulf2.jpg){: .no-resize.center}  
 ☺ Get, refill, reorder and easily switch between drugs of the same class  
 ☺ Each protocol run by a specialist who knows your specific condition and medications  
 ☺ Cruise indefinitely on your Humira®, Byktarvi® or Lispro® without missing a beat  
