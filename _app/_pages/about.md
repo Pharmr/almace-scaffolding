@@ -12,7 +12,7 @@ desc: Pharmr is a new way to get your maintenance meds and manage your condition
 
 <br>
 <br>
-# How it works
+# How it works  
 <br>
 # 🔎  
 Find your protocol and subscribe  
