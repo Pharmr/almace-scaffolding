@@ -5,7 +5,10 @@ permalink: /about/
 desc: Pharmr is a new way to get your maintenance meds and manage your condition online
 ---
 
-# **Pharmr makes it easy to manage your maintaince or continuation therapy online; get, refill, reorder and easily switch between drugs of the same class.** Each protocol run by a specialist who intimately knows your condition and medications. So you can cruise indefinitely on your Humira, Byktarvi or Lispro without ever missing a beat.  
+# With Pharmr, we make it easy to manage your maintenance or continuation therapy online;  
+**Get, refill, reorder and easily switch between drugs of the same class**  
+**Each protocol run by a specialist who intimately knows your condition and medications**  
+**Cruise indefinitely on your Humira, Byktarvi or Lispro without ever missing a beat**    
 
 <br>
 <br>
