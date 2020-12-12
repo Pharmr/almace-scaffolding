@@ -5,7 +5,7 @@ permalink: /about/
 desc: Managing your drug therapy doesn't have to
 ---
 
-# Pharmr makes it easy to manage your maintenance or continuation therapy online so you never miss a dose.  
+# Pharmr makes it easy to manage your maintenance & continuation therapy online so you never miss a dose.  
 <br>
 ☺ Get, refill, reorder and easily switch between drugs of the same class  
 ☺ Each protocol run by a specialist who knows your specific condition and medications  
@@ -57,7 +57,7 @@ The hard thing about launching a platform is the initial content. We’re workin
 In most cases yes, but it’s up to the individual protocol physician. Some diagnoses can be made as a clinical decision via telehealth, while others require more thorough examination or testing. 
 
 **I’m a provider and want to sign up**  
-Awesome. Read about the process [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4103232/) and let’s link up. 
+Awesome. Read about the process [here](https://cranky-johnson-407f0c.netlify.app/providers/) and let’s link up. 
 
 **Is self management dangerous?**   
 In a word, no. [Assisted self management](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4103232/) is the cornerstone of chronic care. We just brought it online. However, if you’re uncomfortable having lightweight interactions with a provider, require frequent hospitalizations or lots of support, or don’t feel comfortable managing your condition virtually, this platform is not for you. 
@@ -69,7 +69,7 @@ Technically, we support all pharmacies that allow for digital prescribing (ie e-
 No. Pharmr is a technology platform that connects chronic care patients to physicians and pharmacies. 
 
 **This is cool. How can I help?**  
-We need the following super talented people to help us deliver our vision:
+We need the following super talented people to help us deliver our vision:  
 UI developer- react web apps  
 Head of operations  
 Business development - pharmaceutical/biotech  
