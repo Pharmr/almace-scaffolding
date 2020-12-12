@@ -5,27 +5,37 @@ permalink: /about/
 desc: 示例頁面・サンプルページ・Example Page
 ---
 
-# Being sick sucks.  
+# Being sick sucks 
 
-### Pharma makes it easy to manage your maintaince or continuation therapy online; get, refill, reorder and easily switch between drugs of the same class. Each protocol run by a specialist who intimately knows your condition and medications. So you can cruise indefinitely on your Humira, Byktarvi or Lispro without ever missing a beat.  
+### Pharmr makes it easy to manage your maintaince or continuation therapy online; get, refill, reorder and easily switch between drugs of the same class. Each protocol run by a specialist who intimately knows your condition and medications. So you can cruise indefinitely on your Humira, Byktarvi or Lispro without ever missing a beat.  
 
 ## How it works  
 
-Find your protocol and subscribe
-Get meds and have them shipped to you
-Check in occasionally
-Ask your doctor questions as they arise
-Keep cruising 
+# 🔎  
+### Find your protocol and subscribe  
+
+# 📦  
+### Get meds and have them shipped to you  
+
+# 📲  
+### Check in occasionally  
+
+# 💬  
+### Ask your doctor questions as they arise  
+
+# 🏄  
+### Keep cruising  
+
 
 ## Why 
 
-The cornerstone of staying healthy is taking your shit-everyday. But they don’t make it easy.  Prior authorizations, different formulated, substitutions, new insurance, new job, new state, specialist referrals. 
+*The cornerstone of staying healthy is taking your shit-everyday.* But they don’t make it easy.  Prior authorizations, different formulated, substitutions, new insurance, new job, new state, specialist referrals. 
 
 Pharmr was built by patients like you to put you in charge of your own scripts and care. Long term drug therapy is a different beast from diagnosis or initial treatment, so it’s time we do it differently. 
 
 We put pro level health tools in the hands of patients. We only ask that you to check in occasionally, be honest, and when stuff gets weird, you chat with one of our doctors right away. That’s the bargain. 
 
-Otherwise, Happy cruising 🏄
+**Happy cruising 🏄**
 
 ## FAQ 
 
@@ -62,6 +72,8 @@ Customer service agent 1
 Cartoon illustrator - preferably someone who works on Adult Swim 
 Machine learning developer - tensorflow 
 Social media something something 
+
+# 🧬  
 
 
 
