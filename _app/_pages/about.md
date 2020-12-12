@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Being sick sucks
+title: Being sick sucks 👎🏽
 permalink: /about/
 desc: Managing your drug therapy doesn't have to
 ---
 
-# Pharmr makes it easy to manage your maintenance & continuation therapy online so you never miss a dose.  
+# Pharmr makes it easy to manage your maintenance or continuation therapy online so you never miss a dose.  
 <br>
 ☺ Get, refill, reorder and easily switch between drugs of the same class  
 ☺ Each protocol run by a specialist who knows your specific condition and medications  
@@ -73,28 +73,18 @@ No. Pharmr is a technology platform that connects chronic care patients to physi
 
 **This is cool. How can I help?**  
 We need the following super talented people to help us deliver our vision:  
-UI developer- react web apps  
-Head of operations  
-Business development - pharmaceutical/biotech  
-Customer service agent 1  
-Cartoon illustrator - preferably someone who works on Adult Swim  
-Machine learning developer - tensorflow  
-Social media something something  
+○ UI developer - react web apps  
+○ Head of operations  
+○ Business development - pharmaceutical/biotech  
+○ Customer service agent 1  
+○ Cartoon illustrator - preferably someone who works on Adult Swim  
+○ Machine learning developer - tensorflow  
+○ Social media something something  
 
 # 🧬  
 <br>
 <br>
 <br>
-
-
- ____    ___ ____ ____   ____       _________   __ __  _       _______ __    __ __  _ _____
-|    \  /  _|    |    \ /    |     / ___|    | /  |  |/ ]     / ___|  |  |  /  |  |/ / ___/
-|  o  )/  [_ |  ||  _  |   __|    (   \_ |  | /  /|  ' /     (   \_|  |  | /  /|  ' (   \_ 
-|     |    _]|  ||  |  |  |  |     \__  ||  |/  / |    \      \__  |  |  |/  / |    \\__  |
-|  O  |   [_ |  ||  |  |  |_ |     /  \ ||  /   \_|     \     /  \ |  :  /   \_|     /  \ |
-|     |     ||  ||  |  |     |     \    ||  \     |  .  |     \    |     \     |  .  \    |
-|_____|_____|____|__|__|___,_|      \___|____\____|__|\_|      \___|\__,_|\____|__|\_|\___|
-                                                                                           
 
 
 # Being sick sucks. Managing your drug therapy doesn't have to.  
