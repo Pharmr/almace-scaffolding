@@ -8,8 +8,9 @@ desc: Pharmr is a new way to get your maintenance meds and manage your condition
 # With Pharmr, we make it easy to manage your maintenance or continuation therapy online;  
 <br>
 ☺ Get, refill, reorder and easily switch between drugs of the same class  
-☺ Each protocol run by a specialist who intimately knows your condition and medications  
+☺ Each protocol run by a specialist who intimately knows your condition and medications 
 ☺ Cruise indefinitely on your Humira, Byktarvi or Lispro without ever missing a beat  
+☺ Do other things and stop worry about your meds
 
 <br>
 <br>
@@ -40,7 +41,7 @@ Pharmr was built by patients like you to put you in charge of your own scripts a
 We put pro level health tools in the hands of patients. We only ask that you to check in occasionally, be honest, and when stuff gets weird, you chat with one of our doctors right away. That’s the bargain. 
 
 **Happy cruising 🏄**
-
+<br>
 
 # FAQ 
 <br>
@@ -79,7 +80,9 @@ Machine learning developer - tensorflow
 Social media something something  
 
 # 🧬  
-
+<br>
+<br>
+<br>
 
 
 # Being sick sucks. Managing your drug therapy doesn't have to.  
