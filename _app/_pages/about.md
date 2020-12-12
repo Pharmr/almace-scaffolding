@@ -7,8 +7,6 @@ desc: Managing your drug therapy doesn't have to
 
 # Pharmr makes it easy to manage your maintenance or continuation therapy online so you never miss a dose.  
 
-![Image](https://images.ctfassets.net/vkdbses00qqt/h7RP1nspwFDZsZEGdGY4n/07bff085583e644a70c1c81a85d21c88/plugins-icon.svg){: .no-resize.center}
-
 ☺ Get, refill, reorder and easily switch between drugs of the same class  
 ☺ Each protocol run by a specialist who knows your specific condition and medications  
 ☺ Cruise indefinitely on your Humira®, Byktarvi® or Lispro® without missing a beat  
@@ -17,7 +15,7 @@ desc: Managing your drug therapy doesn't have to
 <br>
 # How it works  
   
-# 🔎  
+![Image](https://images.ctfassets.net/vkdbses00qqt/h7RP1nspwFDZsZEGdGY4n/07bff085583e644a70c1c81a85d21c88/plugins-icon.svg){: .size-large.center} 
 Find your protocol, apply & subscribe  
 
 # 📦  
