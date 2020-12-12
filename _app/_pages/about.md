@@ -4,7 +4,7 @@ title: We're on a mission to make 'being sick' suck less
 permalink: /about/
 desc: # Managing your drug therapy doesn't have to be so hard
 ---
-# Drug therapy is hard.  
+# Drug therapy is *hard*.  
 # But it doesn't have to be.  
 # Pharmr makes it easy to manage your maintenance or continuation therapy online so you never miss a dose.  
 <br>
@@ -12,10 +12,10 @@ desc: # Managing your drug therapy doesn't have to be so hard
 
 # Why should I care
 <br>
-☺ It's a technology stack purposely built for daily medication takers  
+☺ It's a (subscription based) technology stack purposely built for daily medication takers  
 ☺ *Get*, *refill*, *reorder* and easily *switch between drugs of the same class*  
 ☺ Each protocol run by a specialist who knows your specific condition & medication inside and out  
-☺ Cruise indefinitely on your Humira®, Byktarvi® or Lispro® without interruption  
+☺ Cruise indefinitely on your Humira®, Byktarvi® or Lispro® without skipping a beat  
 ☺ Do other things and stop worrying about your meds  
 
 <p align="center">
@@ -42,13 +42,13 @@ Find your protocol, apply & subscribe
 Get meds and have them shipped to you  
 
 # 📲  
-Check in on the regular  
+Check in on the regular via our app  
 
 # 💬  
 Ask your doctor questions as they arise  
 
 # 🏄  
-Reup or refill & keep cruising  
+Reup or refill when you're low & keep cruising  
 <br>
 
 # Why  
