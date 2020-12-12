@@ -6,17 +6,16 @@ desc: # Managing your drug therapy doesn't have to be so hard
 ---
 # Drug therapy is hard.  
 # But it doesn't have to be.  
-<br>
 # Pharmr makes it easy to manage your maintenance or continuation therapy online so you never miss a dose.  
 <br>
 ![Image](https://bubbleblabber-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/lazor-wulf2.jpg){: .no-resize.center}  
+
+# Why should I care
 <br>
-# What is it  
-<br>
-☺ Pharmr is a technology stack built for daily medication takers  
+☺ It's a technology stack purposely built for daily medication takers  
 ☺ *Get*, *refill*, *reorder* and easily *switch between drugs of the same class*  
-☺ Each protocol is run by a specialist who knows your specific condition & medication inside and out  
-☺ Cruise indefinitely on your Humira®, Byktarvi® or Lispro® without missing a beat  
+☺ Each protocol run by a specialist who knows your specific condition & medication inside and out  
+☺ Cruise indefinitely on your Humira®, Byktarvi® or Lispro® without interruption  
 ☺ Do other things and stop worrying about your meds  
 
 <p align="center">
@@ -49,7 +48,7 @@ Check in on the regular
 Ask your doctor questions as they arise  
 
 # 🏄  
-Reup or refill and keep cruising  
+Reup or refill & keep cruising  
 <br>
 
 # Why  
