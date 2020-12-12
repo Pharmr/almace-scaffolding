@@ -4,13 +4,13 @@ title: We're on a mission to make 'being sick' suck less
 permalink: /about/
 desc: # Managing your drug therapy doesn't have to be so hard
 ---
-# Drug therapy is hard. But it doesn't have to.  
+# Drug therapy is hard. But it doesn't have to be.  
 <br>
 # Pharmr makes it easy to manage your maintenance or continuation therapy online so you never miss a dose.  
 <br>
 ![Image](https://bubbleblabber-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/lazor-wulf2.jpg){: .no-resize.center}  
 
-##What is it
+# What is it  
 ☺ Pharmr is a technology stack built for daily medication takers  
 ☺ `get`, `refill`, `reorder` and easily `switch` between drugs of the same class  
 ☺ Each protocol is run by a specialist who knows your specific condition & medication inside and out  
