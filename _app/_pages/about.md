@@ -4,7 +4,7 @@ title: We're on a mission to make 'being sick' suck less
 permalink: /about/
 desc: # Managing your drug therapy doesn't have to be so hard
 ---
-# Drug therapy shouldn't be this hard. Pharmr makes it easy to manage your maintenance or continuation therapy online so you never miss a dose.  
+# Drug therapy shouldn't be hard. Pharmr makes it easy to manage your maintenance or continuation therapy online so you never miss a dose.  
 ![Image](https://bubbleblabber-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/lazor-wulf2.jpg){: .no-resize.center}  
 ☺ Get, refill, reorder and easily switch between drugs of the same class  
 ☺ Each protocol run by a specialist who knows your specific condition and medications  
