@@ -15,7 +15,8 @@ desc: Managing your drug therapy doesn't have to
 <br>
 # How it works  
   
-![Image](https://images.ctfassets.net/vkdbses00qqt/h7RP1nspwFDZsZEGdGY4n/07bff085583e644a70c1c81a85d21c88/plugins-icon.svg){: .size-large.center} 
+![Image](https://images.ctfassets.net/vkdbses00qqt/h7RP1nspwFDZsZEGdGY4n/07bff085583e644a70c1c81a85d21c88/plugins-icon.svg){: .size-large.center}  
+
 Find your protocol, apply & subscribe  
 
 # 📦  
