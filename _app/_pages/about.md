@@ -10,10 +10,10 @@ desc:
 <br>
 ![Image](https://bubbleblabber-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/lazor-wulf2.jpg){: .no-resize.center}  
 
-# What that means 
+# What this means 
 
 ☺ It's a (subscription based) technology stack purposely built for daily medication takers  
-☺ *Get*, *refill*, *reorder* and easily *switch between drugs of the same class*  
+☺ *Get*, *refill*, *reorder* and easily *switch between drugs of the same class* for your condition  
 ☺ Each protocol run by a specialist who knows your specific condition & medication inside and out  
 ☺ Cruise indefinitely on your Humira®, Byktarvi® or Lispro® without skipping a beat  
 ☺ Do other things and stop worrying about your meds  
@@ -23,13 +23,13 @@ desc:
   
 ![Image](https://images.ctfassets.net/vkdbses00qqt/h7RP1nspwFDZsZEGdGY4n/07bff085583e644a70c1c81a85d21c88/plugins-icon.svg){: .no-resize.center}  
 
-Find your protocol, apply & subscribe  
+Find your protocol & subscribe (approval required) 
 
 # 📦  
 Get meds and have them shipped to you  
 
 # 📲  
-Check in on the regular via our `followup`  
+Check in on the regular via our app  
 
 # 💬  
 Ask your doctor questions as they arise  
@@ -52,7 +52,7 @@ Otherwise, **happy cruising 🏄**.
 # FAQ 
 <br>
 **How much does it cost?**  
-All protocols are monthly subscriptions that range from $10-$30/month + the cost of drugs. You can cancel or restart at any time.  
+[All protocols](https://cranky-johnson-407f0c.netlify.app/) are monthly subscriptions that range from **$10-$30/month + the cost of drugs**. You can cancel or restart at any time.  
 
 **Can I use insurance?**  
 You can! Though we’re initially focusing on the cash payers experience. All protocol subscriptions are by credit card only (no insurance reimbursement), though you may use your insurance for drug fulfillment. 
@@ -82,7 +82,7 @@ Neither. Pharmr is a technology platform that connects chronic care patients to 
 Maintenance drugs are medications prescribed to treat chronic, long-term conditions and are taken on a
 regular,recurring basis. Examples of maintenance drugs are those used to treat ADHD, asthma, diabetes, HIV, or Crohn's Disease. A larger list can be found [here](https://member.carefirst.com/carefirst-resources/pdf/2019-maintenance-drug-list-sum2723.pdf)  
 
-**This is cool 🧬. How can I help?**  
+**This is cool. How can I help?**  
 We need the following super talented people to help us deliver our vision:  
 - UI developer (React web applications)  
 - Head of operations  
