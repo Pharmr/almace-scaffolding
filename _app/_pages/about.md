@@ -9,7 +9,7 @@ desc: Managing your drug therapy doesn't have to
 <br>
 ☺ Get, refill, reorder and easily switch between drugs of the same class  
 ☺ Each protocol run by a specialist who knows your specific condition and medications  
-☺ Cruise indefinitely on your Humira®, Byktarvi® or [____________]® without missing a beat  
+☺ Cruise indefinitely on your Humira®, Byktarvi® or Lispro® without missing a beat  
 ☺ Do other things and stop worrying about your meds  
 
 <br>
@@ -51,7 +51,7 @@ All protocols are monthly subscriptions that range from $10-$30/month (based on 
 You can! Though we’re initially focusing on the cash payers experience. All protocol subscriptions are by credit card only (no insurance reimbursement), though you may use your insurance for drug fulfillment. 
 
 **My therapy or condition isn’t listed**  
-The hard thing about launching a platform is the initial content. We’re working on it! If you have suggestions or particular requests send us a note here: request@pharmr.com or make a post on our Reddit [r/Pharmr](https://www.reddit.com/r/Pharmr/) 
+The hard thing about launching a platform is the initial content. We’re working on it! If you have suggestions or particular requests send us a note here at **requests@pharmr.com** or make a post on our Reddit [r/Pharmr](https://www.reddit.com/r/Pharmr/) 
 
 **Do I need a prior diagnosis?**  
 In most cases yes, but it’s up to the individual protocol physician. Some diagnoses can be made as a clinical decision via telehealth, while others require more thorough examination or testing. 
