@@ -11,9 +11,9 @@ desc:
 ![Image](https://bubbleblabber-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/lazor-wulf2.jpg){: .no-resize.center}  
 # What this means
 <br>
-☺ Pharmr is a subscription-based tech stack built for daily medication takers  
+☺ Pharmr is a subscription-based technology stack built for daily medication takers  
 ☺ *Get*, *refill*, *reorder* and easily *switch between drugs of the same class* for your condition  
-☺ Each protocol run by a specialist who knows your diagnosis & particular drug therapy inside and out  
+☺ Each protocol is run by a specialist who knows your diagnosis & particular drug therapy inside and out  
 ☺ Cruise indefinitely on your Humira®, Byktarvi® or Lispro® without interruption  
 ☺ Do other things and stop worrying about your meds  
 
@@ -57,7 +57,7 @@ All protocols are monthly subscriptions that range from $10-$30/month + the cost
 You can! Though we’re initially focusing on the cash payers experience. All protocol subscriptions are by credit card only (no insurance reimbursement), though you may use your insurance for drug fulfillment. 
 
 **My therapy or condition isn’t listed**  
-The hard thing about launching a platform is the initial content. We’re working on it! If you have suggestions or particular requests send us a note here at mailto:treatmentrequests@pharmr.com or make a post on our Reddit [r/Pharmr](https://www.reddit.com/r/Pharmr/) 
+The hard thing about launching a platform is the initial content. We’re working on it! If you have suggestions or particular requests send us a note here at **treatmentrequests@pharmr.com** or make a post on our Reddit [r/Pharmr](https://www.reddit.com/r/Pharmr/) 
 
 **Do I need a prior diagnosis?**  
 In most cases yes, but it’s up to the individual protocol physician. Some diagnoses can be made as a clinical decision via telehealth, while others require more thorough examination or testing. 
@@ -66,20 +66,20 @@ In most cases yes, but it’s up to the individual protocol physician. Some diag
 Awesome. Read about the process [here](https://cranky-johnson-407f0c.netlify.app/providers/) and let’s link up. 
 
 **Is self management dangerous?**   
-In a word, no. [Assisted self management](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4103232/) is the cornerstone of chronic care. We just brought it online. However, if you’re uncomfortable having lightweight interactions with a provider, require frequent hospitalizations or lots of support, or don’t feel comfortable managing your condition virtually, this platform is not for you. 
+In a word, no. [Assisted self management](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4103232/) is the cornerstone of chronic care. We just brought it online. However, if you’re uncomfortable having lightweight interactions with a provider, you require frequent hospitalizations or lots of support, or don’t feel comfortable managing your condition virtually, this platform is not for you. 
 
 **What pharmacies do you support?**  
-Technically, we support all pharmacies that allow for digital prescribing (ie e-prescribe). A newer generation of pharmacy exists that are api driven and integrated directly into our platform. When you place your order, your money will be held immediately and your request shipped right away if prescribed. This cuts down significantly on administrative work for the patient. We call this **instant fill**. Unfortunately, it’s only supported by a small number of pharmacies at the moment. To access the rest, choose the “Fill on my own” option or FOMO to send a legacy prescription to a pharmacy of your choosing. You’ll be responsible for paying for the drugs yourself as well as shipping or local pickup. Bear in mind, with the FOMO option, there may be extreme variability in drug pricing and insurance benefits coverage and we cannot gaurenteed a particular price. 
+Technically, we support all pharmacies that allow for digital prescribing (ie e-prescribe). A newer generation of pharmacy exists that are api driven and integrated directly into our platform. When you place your order, your money will be held immediately and your request shipped right away if prescribed. This cuts down significantly on administrative work for the patient. We call this **instant fill**. Unfortunately, it’s only supported by a small number of pharmacies at the moment. To access the rest, choose the “Fill on my own” option or FOMO to send a legacy prescription to a pharmacy of your choosing. You’ll be responsible for paying for the drugs yourself as well as shipping or local pickup. Bear in mind, with the FOMO option, there may be extreme variability in drug pricing and insurance benefits coverage and we cannot gaurenteed a particular price or coverage. 
 
 **I take a scheduled drug. Can I still use Pharmr?**  
-At the momement no, but we plan to support this in the future. Controlled substances require additional logic and rules around how the prescriptions are handled (particularly in regards to refills, transfers and delivery).   
+At the momement no, but we plan to support this in the future. Controlled substances require additional logic and rules around how prescriptions are handled (particularly in regards to refills, transfers and delivery).   
 
 **Is Pharmr a pharmacy or a medical practice?**  
 Neither. Pharmr is a technology platform that connects chronic care patients to physicians and pharmacies. 
 
 **What is maintenance or continuation therapy?**  
 Maintenance drugs are medications prescribed to treat chronic, long-term conditions and are taken on a
-regular,recurring basis. Examples of maintenance drugs are those used to treat ADHD, asthma, diabetes, HIV, or Crohn's Disease. A larger list can be found [here](https://member.carefirst.com/carefirst-resources/pdf/2019-maintenance-drug-list-sum2723.pdf)  
+regular, recurring basis. Examples of maintenance drugs are those used to treat ADHD, asthma, diabetes, HIV, or Crohn's Disease. A larger list can be found [here](https://member.carefirst.com/carefirst-resources/pdf/2019-maintenance-drug-list-sum2723.pdf)  
 
 **This is cool. How can I help?**  
 We need the following super talented people to help us deliver our vision:  
