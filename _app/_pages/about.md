@@ -16,7 +16,7 @@ desc: Managing your drug therapy doesn't have to
 # How it works  
   
 # 🔎  
-Find your protocol and subscribe  
+Find your protocol, apply & subscribe  
 
 # 📦  
 Get meds and have them shipped to you  
