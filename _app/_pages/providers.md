@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Help patients cruise on their chronic drug therapy so they have more time do other stuff
+title: Help chronic care patients cruise on their specialty drug therapy
 permalink: /providers/
 desc: Practice specialty medicine at scale
 ---
