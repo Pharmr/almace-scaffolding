@@ -5,11 +5,10 @@ permalink: /about/
 desc: Managing your drug therapy doesn't have to
 ---
 
-<h1 title="Big type or not so big type" class="dot dot--post"> </span> </h1>
+# Pharmr makes it easy to manage your [maintenance or continuation therapy](https://member.carefirst.com/carefirst-resources/pdf/2019-maintenance-drug-list-sum2723.pdf) online so you never miss a dose.  
 
-<h1 title="Big type or not so big type"</h1>
+![Image](https://sparanoid.com/logo.png){: .no-resize.center}
 
-# Pharmr makes it easy to manage your [maintenance or continuation therapy](https://member.carefirst.com/carefirst-resources/pdf/2019-maintenance-drug-list-sum2723.pdf)online so you never miss a dose.  
 <br>
 ☺ Get, refill, reorder and easily switch between drugs of the same class  
 ☺ Each protocol run by a specialist who knows your specific condition and medications  
@@ -35,17 +34,6 @@ Ask your doctor questions as they arise
 Reup or refill and keep cruising  
 <br>
 
-|                                                 |
-|-------------------------------------------------|
-| \# 🔎  Find your protocol, apply & subscribe    |
-| \# 📦  Get meds and have them shipped to you    |
-| \# 📲  Check in on the regular                  |
-| \# 💬  Ask your doctor questions as they arise  |
-| \# 🏄  Reup or refill and keep cruising         |
-
-![Image](https://sparanoid.com/logo.png)
-{: .browser}
-
 # Why  
 <br>
 The cornerstone of staying healthy is taking your meds—*every day*. But they don’t make it easy. Prior authorizations, different formularies, substitutions, new insurance, new job, new state, deductibles, specialist referrals.  
@@ -60,7 +48,7 @@ Otherwise, **happy cruising 🏄**.
 # FAQ 
 <br>
 **How much does it cost?**  
-All protocols are monthly subscriptions that range from $10-$30/month + the cost of drugs. YOu can cancel or restart at any time.  
+All protocols are monthly subscriptions that range from $10-$30/month + the cost of drugs. You can cancel or restart at any time.  
 
 **Can I use insurance?**  
 You can! Though we’re initially focusing on the cash payers experience. All protocol subscriptions are by credit card only (no insurance reimbursement), though you may use your insurance for drug fulfillment. 
@@ -83,15 +71,22 @@ Technically, we support all pharmacies that allow for digital prescribing (ie e-
 **Is Pharmr a pharmacy?**  
 No. Pharmr is a technology platform that connects chronic care patients to physicians and pharmacies. 
 
+**Do you support Scheduled drugs?**
+At the momement no, but we plan to in the future. Controlled substances require additional logic and rules around how their handled (particalarly in regards to refills, transfers and item shipping).   
+
+**What's maintenance or continuation therapy?**
+Maintenance drugs are medications prescribed to treat chronic, long-term conditions and are taken on a
+regular,recurring basis. Examples of maintenance drugs are those used to treat ADHD, asthma, diabetes, HIV, or Crohn's Disease. A decent list can be found [here](https://member.carefirst.com/carefirst-resources/pdf/2019-maintenance-drug-list-sum2723.pdf) ### pdf link out  
+
 **This is cool. How can I help?**  
 We need the following super talented people to help us deliver our vision:  
-○ UI developer - react web apps  
-○ Head of operations  
-○ Business development - pharmaceutical/biotech  
-○ Customer service agent 1  
-○ Cartoon illustrator - preferably someone who works on Adult Swim  
-○ Machine learning developer - tensorflow  
-○ Social media something something  
+- UI developer - react web apps  
+- Head of operations  
+- Business development - pharmaceutical/biotech  
+- Customer service agent 1  
+- Cartoon illustrator - preferably someone who works on Adult Swim  
+- Machine learning developer - tensorflow  
+- Social media something something  
 
 # 🧬  
 <br>
