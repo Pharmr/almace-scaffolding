@@ -7,7 +7,7 @@ desc: Managing your drug therapy doesn't have to
 
 # Pharmr makes it easy to manage your maintenance or continuation therapy online so you never miss a dose.  
 
-![Image](https://sparanoid.com/logo.png){: .no-resize.center}
+![Image](performance-icon.svg){: .no-resize.center}
 
 ☺ Get, refill, reorder and easily switch between drugs of the same class  
 ☺ Each protocol run by a specialist who knows your specific condition and medications  
@@ -53,7 +53,7 @@ All protocols are monthly subscriptions that range from $10-$30/month + the cost
 You can! Though we’re initially focusing on the cash payers experience. All protocol subscriptions are by credit card only (no insurance reimbursement), though you may use your insurance for drug fulfillment. 
 
 **My therapy or condition isn’t listed**  
-The hard thing about launching a platform is the initial content. We’re working on it! If you have suggestions or particular requests send us a note here at **requests@pharmr.com** or make a post on our Reddit [r/Pharmr](https://www.reddit.com/r/Pharmr/) 
+The hard thing about launching a platform is the initial content. We’re working on it! If you have suggestions or particular requests send us a note here at mailto:treatmentrequests@pharmr.com or make a post on our Reddit [r/Pharmr](https://www.reddit.com/r/Pharmr/) 
 
 **Do I need a prior diagnosis?**  
 In most cases yes, but it’s up to the individual protocol physician. Some diagnoses can be made as a clinical decision via telehealth, while others require more thorough examination or testing. 
@@ -71,9 +71,9 @@ Technically, we support all pharmacies that allow for digital prescribing (ie e-
 No. Pharmr is a technology platform that connects chronic care patients to physicians and pharmacies. 
 
 **Do you support Scheduled drugs?**  
-At the momement no, but we plan to in the future. Controlled substances require additional logic and rules around how their handled (particalarly in regards to refills, transfers and item shipping).   
+At the momement no, but we plan to in the future. Controlled substances require additional logic and rules around how their handled (particularly in regards to refills, transfers and delivery).   
 
-**What's maintenance or continuation therapy?**  
+**What is maintenance or continuation therapy?**  
 Maintenance drugs are medications prescribed to treat chronic, long-term conditions and are taken on a
 regular,recurring basis. Examples of maintenance drugs are those used to treat ADHD, asthma, diabetes, HIV, or Crohn's Disease. A larger list can be found [here](https://member.carefirst.com/carefirst-resources/pdf/2019-maintenance-drug-list-sum2723.pdf)  
 
