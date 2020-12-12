@@ -22,7 +22,7 @@ Find your protocol, apply & subscribe
 Get meds and have them shipped to you  
 
 # 📲  
-Check in occasionally  
+Check in on the regular  
 
 # 💬  
 Ask your doctor questions as they arise  
@@ -36,7 +36,7 @@ Keep cruising
 
 # Why  
 <br>
-The cornerstone of staying healthy is taking your meds-*everyday*. But they don’t make it easy. Prior authorizations, different formularies, substitutions, new insurance, new job, new state, deductibles, specialist referrals. 
+The cornerstone of staying healthy is taking your meds—*every day*. But they don’t make it easy. Prior authorizations, different formularies, substitutions, new insurance, new job, new state, deductibles, specialist referrals. 
 
 Pharmr was built by patients like you to put you in charge of your own scripts and care. Long term drug therapy is a different beast from diagnosis or initial treatment, so it’s time we do it differently. 
 
