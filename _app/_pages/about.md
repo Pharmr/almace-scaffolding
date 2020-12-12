@@ -5,6 +5,10 @@ permalink: /about/
 desc: Managing your drug therapy doesn't have to
 ---
 
+<h1 title="Big type or not so big type" class="dot dot--post"> </span> </h1>
+
+<h1 title="Big type or not so big type"</h1>
+
 # Pharmr makes it easy to manage your [maintenance or continuation therapy](https://member.carefirst.com/carefirst-resources/pdf/2019-maintenance-drug-list-sum2723.pdf)online so you never miss a dose.  
 <br>
 ☺ Get, refill, reorder and easily switch between drugs of the same class  
