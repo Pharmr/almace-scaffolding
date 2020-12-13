@@ -15,6 +15,7 @@ desc: Practice specialty medicine at scale
 
 Have the flexibility to practice your brand of specialty medicine at scale and reach patients from accross the country. 
 
+
 ## What you do
 
 **By working on Pharmr, you'll be helping chronic care patients manage their condition and specific drug therapy online:**  
@@ -48,10 +49,17 @@ Pharmr is a subscription-based model. Each patient pays a fixed dollar amount pe
 
 ## Getting started   
 
-1. You should be a US licensed physcian with no pending actions or malpractice suits.  
-2. Excellent conversing via remote & digital means.  
+**Thinking of doing something new on Pharmr?**  
+
+Providers should meet the following criteria:  
+1. Be a US licensed physcian with no pending actions or malpractice suits.  
+2. Have excellent conversing skills via remote & digital means.  
 3. Ability to manage your own lightweight practice, part time or full time (we'll be offering delegate support in the near future).  
-4. Committed to doing something rad and taking the next leap in digital health.  
+4. Committed to doing something rad and taking the next step in digital health.  
+
+Interested parties may complete a *microservice request application* here.  
+
+Additionally, providers can speak with someone about the process directly by emailing/discord/reddit phone something and arranging a 30 minute video call. 
 
 
 ## Frequently Asked Questions   
@@ -79,15 +87,6 @@ Micoservices are intended to be very specific: A single condition + a single cla
 
 **Do I need my own malpractice insurance?**  
 Pharmr has the same liabilty protections as Teledoc. Yes, you will need your own medmal coverage. Pharmr will provide cyber, general liability & and an umbrella policy for it's providers. Providers may purchase higher rates of coverage if they so choose.  
-
-## Getting started   
-
-1. You should be a US licensed physcian with no pending actions or malpractice suits.  
-2. Excellent conversing via remote & digital means.  
-3. Ability to manage your own lightweight practice, part time or full time (we'll be offering delegate support in the near future).  
-4. Committed to doing something rad and taking the next leap in digital health.  
-
-**Earn money helping patients access your specialty from all over the country (licensure permitting).**   
 
 <br>
 <p class="largetype">
