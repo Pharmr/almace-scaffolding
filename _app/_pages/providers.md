@@ -6,28 +6,6 @@ desc: Practice specialty medicine at scale
 ---
 <br>
 <br>
-<br>
-<p class="largetype">Practice specialty medicine at scale on Pharmr</p>  
-
-## What you do
-
-**By working on Pharmr, you'll be helping chronic care patiens with the following:**  
-
-Patient onboarding  
-Lightweight condition monitoring  
-Prescription management  
-  -Refills  
-  -Reorder requests  
-  -Changes in drug therapy  
-Answering patient questions through chat  
-Referrals out  
-
-**What you won't be doing:**  
-After hours charting  
-Prior authorizations  
-Interfacing with insurance providers  
-
-The point of Pharmr is to help chronic care patients easily manage their condition and drug therapy online so they have time for other things.  
 
 ## How it works  
 
@@ -52,6 +30,26 @@ Pharmr is a subscription pricing model. Each patient pays a fixed dollar amount 
 
 Providers are given a login where they can manage their patients and see their remittance calculated each month. All earnings are trasnfered via ACH every 30 day interval.   
 
+## What you do
+
+**By working on Pharmr, you'll be helping chronic care patiens manage their condition and drug therapy online:**  
+
+Patient onboarding  
+Lightweight condition monitoring  
+Prescription management  
+  -Refills  
+  -Reorder requests  
+  -Changes in drug therapy  
+Answering patient questions through chat  
+Referrals out  
+
+**What you won't be doing:**  
+After hours charting  
+Prior authorizations  
+Interfacing with insurance providers  
+
+The point of Pharmr is to help chronic care patients easily manage their condition and drug therapy online so they have time for other things.  
+
 ## Frequently Asked Questions  
 
 **How do you manage patient insurance?**  
@@ -65,9 +63,9 @@ Yes, a protocol creator may assign additional physicians to work on the platform
 
 **How do I interact with my patients?**  
 Pharmr currently supports 3 means of patient interaction:  
-  A-sync survery responses  
-  Direct messaging (text and file attachments)  
-  Video calling (via Doxy.me or another HIPAA compliant 3rd party platform)  
+  -A-sync survery responses  
+  -Direct messaging (text and file attachments)  
+  -Video calling (via Doxy.me or another HIPAA compliant 3rd party platform)  
   
 **Can I prescribe scheduled drugs?**  
 Not currently.  
@@ -80,10 +78,10 @@ Pharmr has the same liabilty protections as Teledoc. Yes, you will need your own
 
 ## Getting started   
 
-You should be a US licensed physcian with no pending actions or malpractice suits.  
-Excellent conversing via remote & digital means.  
-Ability to manage your own lightweight practice, part time or full time (we'll be offering delegate support in the near future).  
-Committed to doing something rad and taking the next leap in digital health.  
+1. You should be a US licensed physcian with no pending actions or malpractice suits.  
+2. Excellent conversing via remote & digital means.  
+3. Ability to manage your own lightweight practice, part time or full time (we'll be offering delegate support in the near future).  
+4. Committed to doing something rad and taking the next leap in digital health.  
 
 **Earn money helping patients access your specialty from all over the country (licensure permitting).**   
 
