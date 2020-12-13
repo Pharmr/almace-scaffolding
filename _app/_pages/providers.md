@@ -8,12 +8,13 @@ desc: Practice specialty medicine at scale
 
 **Create your own [microservice](https://cranky-johnson-407f0c.netlify.app/cgrpmigraine.html) on Pharmr**  
 
-1. Choose a specific condition  
-2. Build your formulary with a specific drug, drugs or drug class  
-3. Create your onboarding and followup forms
+1. Choose a specific condition or conditions
+2. Determine patient population & eligibility criteria 
+2. Build your own formulary with a specific drug, drugs or class of drugs
+3. Create your onboarding and followup questionaires 
 4. Start accepting patients  
 
-Have the flexibility to practice your brand of specialty medicine at scale and reach patients from accross the country. 
+Have the flexibility to practice your own brand of specialty medicine at scale and reach patients from accross the country. 
 
 
 ## What you do
