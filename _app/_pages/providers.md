@@ -14,7 +14,7 @@ desc: Practice specialty medicine at scale
 3. Create your onboarding and followup questionaires 
 4. Start accepting patients  
 
-Have the flexibility to practice your own brand of specialty medicine at scale and reach patients from accross the country. 
+Have the flexibility to practice your own brand of lightweight specialty medicine at scale and reach patients from accross the country. 
 
 
 ## What you do
