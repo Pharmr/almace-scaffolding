@@ -4,35 +4,20 @@ title: Help patients cruise on their drug therapy– in your specialty
 permalink: /providers/
 desc: Practice specialty medicine at scale
 ---
-<br>
-<br>
-
 ## How it works  
 
-**Create your own [microservice](https://cranky-johnson-407f0c.netlify.app/cgrpmigraine.html)**  
+**Create your own [microservice](https://cranky-johnson-407f0c.netlify.app/cgrpmigraine.html) on Pharmr**  
 
 1. Choose a specific condition  
 2. Build your formulary with a specific drug, drugs or drug class  
-3. Create your onboarding and followup intake forms  
+3. Create your onboarding and followup forms
 4. Start accepting patients  
 
-For example: Non-allergic mild to moderate persistant asthma with ICS, ICS/LABA and B2 Agonosists  
-
-## How you get paid  
-
-Pharmr is a subscription pricing model. Each patient pays a fixed dollar amount per month that goes to your practice.  
-
-| Standard protocols | Complex conditions or therapeutics | Rare diseases & psychiatric services |
-|--------------------|------------------------------------|--------------------------------------|
-| $7/patient/month   | $14/patient/month                  | $21/patient/month                    |
-
-*Includes EMR, ID proofing, payment processing and other annoying stuff*  
-
-Providers are given a login where they can manage their patients and see their remittance calculated each month. All earnings are trasnfered via ACH every 30 day interval.   
+Have the flexibility to practice your brand of specialty medicine at scale and reach patients from accross the country. 
 
 ## What you do
 
-**By working on Pharmr, you'll be helping chronic care patiens manage their condition and drug therapy online:**  
+**By working on Pharmr, you'll be helping chronic care patients manage their condition and specific drug therapy online:**  
 
 Patient onboarding  
 Lightweight condition monitoring  
@@ -43,14 +28,33 @@ Prescription management
 Answering patient questions through chat  
 Referrals out  
 
-**What you won't be doing:**  
+**What you won't be doing:**   
+
 After hours charting  
 Prior authorizations  
 Interfacing with insurance providers  
 
-The point of Pharmr is to help chronic care patients easily manage their condition and drug therapy online so they have time for other things.  
 
-## Frequently Asked Questions  
+## How you get paid  
+
+Pharmr is a subscription-based model. Each patient pays a fixed dollar amount per month that is remitted to you in 30 day intervals. Efficient providers can manage thousands of patients per month. 
+
+| Standard protocols | Complex conditions or therapeutics | Rare diseases & psychiatric services |
+|--------------------|------------------------------------|--------------------------------------|
+| $7/patient/month   | $14/patient/month                  | $21/patient/month                    |
+
+*Includes EMR, ID proofing, payment processing and other annoying stuff*  
+
+
+## Getting started   
+
+1. You should be a US licensed physcian with no pending actions or malpractice suits.  
+2. Excellent conversing via remote & digital means.  
+3. Ability to manage your own lightweight practice, part time or full time (we'll be offering delegate support in the near future).  
+4. Committed to doing something rad and taking the next leap in digital health.  
+
+
+## Frequently Asked Questions   
 
 **How do you manage patient insurance?**  
 Pharmr's base subscription is for cash paying patients only as explicility stated in our terms. Insurance can be used for the cost of drugs though. Providers, at their own descretion, determine what what they will and won't support in regards to insurance reimburesment for medication sin their protocol description.  
