@@ -4,9 +4,7 @@ title: CGRPmigraine 😭
 category: note
 tags: protocols
 ---
-<br>
-<br>
-<br>
+
 <p class="largetype">CGRPmigraine 😭 </p>
 
 Protocol: **Anti CGRP migraine treatments for patients refractory to standard therapy**  

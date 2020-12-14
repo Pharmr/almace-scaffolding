@@ -2,7 +2,8 @@
 layout: post
 title: GitHub Pages Setup Guide
 category: note
-tags: deployment
+hidden: true
+
 ---
 
 ## The Problem

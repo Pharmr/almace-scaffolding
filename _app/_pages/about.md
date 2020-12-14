@@ -4,44 +4,72 @@ title: Managing your meds sucks. Pharmr fixed it.
 permalink: /about/
 desc: 
 ---
+
+# Big Words
+{: style="color:#4F45A1; font-size: 400%; text-align: center;"}
+<br>
+
 # We built a tool for the 100,000,000 people who take maintenance or continuation therapy every day. So you can cruise on your drug therapy and leave the bs behind.
+{: style="color: black; font-size: 200%; text-align: center; line-height: 1.2;"}
 <br>
-# How it works
+<h1 style="text-align:center;"> We built a tool for the 100,000,000 people who take maintenance or continuation therapy every day. So you can cruise on your drug therapy and leave the bs behind.</h1> 
+<br>
+<br>
+<h1 style="text-align:center;"> How it works</h1>
+<hr style="height:50px; visibility:hidden;" />
+![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center} 
+
+<p style="text-align:center; font-weight:bold;">Find a protocol and subscribe</p>  
+<p style="text-align:center;">Each protocol organized by a condition and drug class. A simple subscription lets you access a specialist and the drugstore in an ongoing basis. Approval required. </p> 
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
-**Find a protocol and subscribe**  
-Each protocol organized by a condition and drug class. A simple subscription lets you access a specialist and the drugstore in an ongoing basis. Approval required.  
-![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
-**Get meds and have them shipped to you**  
-First of its kind programmatic control of your scripts. Get, refill, reorder and easily switch between drugs of the same class. Choose any pharmacy on checkout.  
-
-![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
-**Check in on the regular**  
-Input data about how you’re doing at regular intervals. If your provider notices something is up, they’ll reach back out.   
-
-![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
-**Ask medical questions as they arise**  
-Every protocol is run by a specialist who knows your specific condition and drug therapy inside and out. Have an issue and they’ll help you resolve it or escalate it.  
-
-![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
-**Keep cruising**   
-Never worry about your meds again. Pharmr let’s you cruise indefinitely on your Humira, byktarvi or lispro and so you never skip a beat. We made drug therapy easier, so you Have time to do other stuff.   
-
-# Why  
+<p style="text-align:center; font-weight:bold;">Get meds and have them shipped to you</p> 
+<p style="text-align:center;">First of its kind <span style="color: #E70FC6; font-weight: bold; font-style: italic;">programmatic control</span> of your scripts. Get, refill, reorder and easily switch between drugs of the same class. Choose any pharmacy on checkout. </p> 
 <br>
-The cornerstone of staying healthy is taking your meds—*every day*. But they don’t make it easy. Prior authorizations, different formularies, substitutions, new insurance, new job, new state, deductibles, specialist referrals.  
-
+![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
+<p style="text-align:center; font-weight:bold;">Check in on the regular</p>
+<p style="text-align:center;">Input data about how you’re doing at regular intervals. If your provider notices something is up, they’ll reach back out. </p>
+<br>
+![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
+<p style="text-align:center; font-weight:bold;">Ask medical questions as they arise</p>  
+<p style="text-align:center;">Every protocol is run by a specialist who knows your specific condition and drug therapy inside and out. Have an issue and they’ll help you resolve it or escalate it.</p>  
+<br>
+![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
+<p style="text-align:center; font-weight:bold;">Keep cruising</p>
+<p style="text-align:center;">Never worry about your meds again. Pharmr let’s you cruise indefinitely on your Humira, byktarvi or lispro and so you never skip a beat. We made drug therapy easier, so you Have time to do other stuff.</p>   
+<br>
+<h1 style="text-align:center;">Why</h1>  
+<hr style="height:50px; visibility:hidden;" />
+<p style="text-align:center;">The cornerstone of staying healthy is taking your meds—*every day*. But they don’t make it easy. Prior authorizations, different formularies, substitutions, new insurance, new job, new state, deductibles, specialist referrals.  
+<br>
+<br>
 Pharmr was built by patients like you to put you in charge of your own scripts and care. Long term drug therapy is a different beast from diagnosis or initial treatment, so it’s time we do it differently. 
-
+<br>
+<br>
 We've put pro level health tools in the hands of chronic care patients. We only ask that you to check in regularly, be honest, and when stuff gets weird, you chat with your assigned provider right away. That’s the bargain. 
+<br>
+<br>
 
-Otherwise, **happy cruising 🏄**.  
+Otherwise, <span style="font-weight: bold;">happy cruising 🏄.</span></p>
 <br>
 <br>
 # FAQ 
 <br>
-**How much does it cost?**  
-All protocols are monthly subscriptions that range from $10-$30/month + the cost of drugs. You can cancel or restart at any time.  
+
+<details>
+  <summary>Supported Fonts</summary>
+  <ul>
+    <li><a href="https://www.microsoft.com/typography/otspec/features_fj.htm#qwid">Microsoft Registered features - qwid</a></li>
+    <li><a href="https://typekit.com/fonts/kozuka-mincho-pr6n">Kozuka Mincho Pr6n</a></li>
+  </ul>
+</details>
+
+<details>
+<summary><span style="font-weight: bold;"> How much does it cost?</span></summary>
+ <ul>  
+All protocols are monthly subscriptions that range from $10-$30/month + the cost of drugs. You can cancel or restart at any time. 
+</ul>
+</details>
 
 **Can I use insurance?**  
 You can! Though we’re initially focusing on the cash payers experience. All protocol subscriptions are by credit card only (no insurance reimbursement), though you may use your insurance for drug fulfillment. 
