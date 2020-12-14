@@ -4,30 +4,30 @@ title: We're on a mission to make 'being sick' suck less
 permalink: /about/
 desc: 
 ---
-# Over 10000000 million people take (a (are on a) maintenance therapy) daily medications. We’re here to make it easier.
+# Over 10000000 million people take (a (are on a) maintenance therapy) daily medications. We’re here to make it easier.  
 
-# 100,000,000 people are on maintenance or continuation therapy. We’re here to make it easier. 
+# 100,000,000 people are on maintenance or continuation therapy. We’re here to make it easier.   
 
-100,000,000 people are on (a) maintenance or continuation therapy. We made it better. 
+100,000,000 people are on (a) maintenance or continuation therapy. We made it better.  
 
-We found a better way. 
+We found a better way.  
 
 # How it works
 
-**Find a protocol and subscribe**
-Each protocol organized by a specific condition and class of drugs. A simple subscription lets you access a specialist and the drugstore in an ongoing basis. Approval required. 
+**Find a protocol and subscribe**  
+Each protocol organized by a specific condition and class of drugs. A simple subscription lets you access a specialist and the drugstore in an ongoing basis. Approval required.  
 
-**Get meds and have them shipped to you**
-First of its kind programmatic control of your scripts. Get, refill, reorder and easily switch between drugs of the same class. Choose any pharmacy on checkout. 
+**Get meds and have them shipped to you**  
+First of its kind programmatic control of your scripts. Get, refill, reorder and easily switch between drugs of the same class. Choose any pharmacy on checkout.  
 
-**Check in on the regular**
-Input data about how you’re doing at regular intervals. If your provider notices something is up, they’ll reach back out. 
+**Check in on the regular**  
+Input data about how you’re doing at regular intervals. If your provider notices something is up, they’ll reach back out.   
 
-**Ask medical questions as they arise**
-Every protocol is run by a specialist who knows your specific condition and drug therapy inside and out. Have an issue and they’ll help you resolve it or escalate it. 
+**Ask medical questions as they arise**  
+Every protocol is run by a specialist who knows your specific condition and drug therapy inside and out. Have an issue and they’ll help you resolve it or escalate it.  
 
-**Keep cruising** 
-Never worry about your meds again. Pharmr let’s you cruise indefinitely on your Humira, byktarvi or lispro and so you never skip a beat. We made drug therapy easier, so you Have time to do other stuff. 
+**Keep cruising**   
+Never worry about your meds again. Pharmr let’s you cruise indefinitely on your Humira, byktarvi or lispro and so you never skip a beat. We made drug therapy easier, so you Have time to do other stuff.   
 
 # Why  
 <br>
