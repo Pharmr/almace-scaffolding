@@ -14,7 +14,7 @@ We found a better way.
 
 # How it works
 
-![Image](_app/assets/svg/diamond.svg){: .no-resize.center}  
+![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 **Find a protocol and subscribe**  
 Each protocol organized by a specific condition and class of drugs. A simple subscription lets you access a specialist and the drugstore in an ongoing basis. Approval required.  
 
@@ -92,8 +92,6 @@ We need the following super talented people to help us deliver our vision:
 <p align="center">
  
 # Pharmr makes it easy to manage your maintenance or continuation therapy online so you never miss a dose.  
-
-![Image](_app/assets/svg/diamond.svg){: .no-resize.center}  
 
 ☺ Get, refill, reorder and easily switch between drugs of the same class  
 ☺ Each protocol run by a specialist who knows your specific condition and medications  
