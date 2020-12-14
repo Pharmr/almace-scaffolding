@@ -2,7 +2,7 @@
 layout: post
 title: SVG Post Title
 category: note
-hidden: true
+hidden: false
 ---
 
 > The content of this post in deprecated, please see [Custom Heading Image]({{ "/custom-heading-image.html" | relative_url}}) for more info.
