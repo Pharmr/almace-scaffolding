@@ -6,7 +6,7 @@ desc:
 ---
 # Getting started for providers
 <br>
-**To work on Pharmr, you'll first create your own microservice**
+**To work on Pharmr, you'll first create a microservice**
 
 Providers have flexibilty in what they manage and what therapeutics are offered. A new service can be created in a few simple steps: 
 
@@ -14,14 +14,14 @@ Providers have flexibilty in what they manage and what therapeutics are offered.
 2. Determine your patient population & eligibility  
 2. Build your formulary    
 3. Create your onboarding & followup forms  
-4. Start accepting new patients  
+4. Start accepting patients  
 
-With Pharmr, you can practice your own brand of lightweight specialty medicine and reach patients from across the country. 
+With Pharmr, you can practice your own brand of lightweight specialty medicine and reach patients across the country (licensure permitting).  
 
 
 # Seeing patients
 <br>
-**By working on the Pharmr platform, you'll be helping patients in your population manage their condition and drug therapy online.**  
+**By working on the Pharmr platform, you'll be helping patients in your target population manage their condition and drug therapy online.**  
 
 Stuff you'll be doing:  
 
@@ -44,24 +44,24 @@ Stuff you can skip:
 
 # How you get paid  
 <br>
-**Pharmr is a subscription-based drug therapy service. Patients pay a fixed amount every month that is remitted back to you. Efficient providers can manage thousands of patients per month.**  
+**Pharmr is a subscription-based drug therapy service.**  
+
+Patients pay a fixed amount every month that is remitted back to you. The below pricing is inclusive of all fees. Efficient providers can manage thousands of patients per month.   
 
 | Standard protocols | Complex conditions or therapeutics | Rare diseases & psychiatric services |
 |--------------------|------------------------------------|--------------------------------------|
 | $7/patient/month   | $14/patient/month                  | $21/patient/month                    |
 
-*Inclusive of EMR, ID proofing, payment processing & ACH fees  
-
-
+<br>
 # Provider onboarding
 <br>
 **Thinking of doing something new on Pharmr?**  
 
-Eligible providers meet the following criteria:  
-- Be a US licensed physcian with no pending actions.  
+Eligible providers should meet the following criteria:  
+- Be a US licensed physcian (MD or DO) with no pending actions.  
 - Have excellent communication skills via chat & video.  
-- Ability to manage your own lightweight practice, part time or full time (we'll be offering delegate support in the near future).  
-- Committed to doing something rad and taking the next step in digital health.  
+- Ability to manage your own lightweight service, part time or full time (we'll be offering delegate support in the near future).  
+- Committed to doing something rad and taking the next leap into digital health.  
 
 Interested parties may complete a *microservice request application* here.  
 
@@ -103,3 +103,4 @@ Pharmr has the same liabilty protections as Teledoc. Yes, you will need your own
 **Create your own [microservice](https://cranky-johnson-407f0c.netlify.app/cgrpmigraine.html) on Pharmr**  
 
 Have the flexibility to practice your own brand of lightweight specialty medicine at scale and reach patients from accross the country. 
+*Inclusive of EMR, ID proofing, payment processing & ACH fees  
