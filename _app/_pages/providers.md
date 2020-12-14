@@ -4,6 +4,8 @@ title: Help patients cruise on their drug therapy – in your specialty
 permalink: /providers/
 desc:
 ---
+# With Pharmr, you get to practice your own brand of lightweight specialty medicine and reach patients from across the country.  
+
 # Getting started for providers
 <br>
 **To work on Pharmr, you'll first create a microservice**
@@ -15,9 +17,6 @@ Providers have flexibilty in what they manage and what therapeutics they offer. 
 2. Build your formulary    
 3. Create your onboarding & followup forms  
 4. Start accepting patients  
-
-With Pharmr, you can practice your own brand of lightweight specialty medicine and reach patients across the country (licensure permitting).  
-
 
 # Seeing patients
 <br>
