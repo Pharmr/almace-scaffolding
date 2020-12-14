@@ -24,12 +24,6 @@ desc:
 
 Find your protocol & subscribe (approval required) 
 
-# <center> 📦  
-# <center> Get meds and have them shipped to you </center> 
-{::options parse_block_html="true" /}
-<p style="text-align:center">*Get*, *refill*, *reorder* and easily *switch between drugs of the same class* for your condition </p>
-<br>
-
 # 📦  
 Get meds and have them shipped to you  
 
