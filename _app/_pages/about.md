@@ -4,38 +4,30 @@ title: We're on a mission to make 'being sick' suck less
 permalink: /about/
 desc: 
 ---
-# Drug therapy is *hard*.  
-# But it doesn't have to be.  
-# Pharmr makes it easy to manage your maintenance or continuation therapy online so you never miss a dose.  
-<br>
-![Image](https://bubbleblabber-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/lazor-wulf2.jpg){: .no-resize.center}  
-# What this means
-<br>
-☺ Pharmr is a subscription-based technology stack built for daily medication takers  
-☺ *Get*, *refill*, *reorder* and easily *switch between drugs of the same class* for your condition  
-☺ Each protocol is run by a specialist who knows your diagnosis & particular drug therapy inside and out  
-☺ Cruise indefinitely on your Humira®, Byktarvi® or Lispro® without interruption  
-☺ Do other things and stop worrying about your meds  
+# Over 10000000 million people take (a (are on a) maintenance therapy) daily medications. We’re here to make it easier.
 
-<br>
-# How it works  
-  
-![Image](https://images.ctfassets.net/vkdbses00qqt/h7RP1nspwFDZsZEGdGY4n/07bff085583e644a70c1c81a85d21c88/plugins-icon.svg){: .no-resize.center}  
+# 100,000,000 people are on maintenance or continuation therapy. We’re here to make it easier. 
 
-Find your protocol & subscribe (approval required) 
+100,000,000 people are on (a) maintenance or continuation therapy. We made it better. 
 
-# 📦  
-Get meds and have them shipped to you  
+We found a better way. 
 
-# 📲  
-Check in on the regular via our app  
+# How it works
 
-# 💬  
-Ask your doctor questions as they arise  
+**Find a protocol and subscribe**
+Each protocol organized by a specific condition and class of drugs. A simple subscription lets you access a specialist and the drugstore in an ongoing basis. Approval required. 
 
-# 🏄  
-Reup or refill when you're low & keep cruising  
-<br>
+**Get meds and have them shipped to you**
+First of its kind programmatic control of your scripts. Get, refill, reorder and easily switch between drugs of the same class. Choose any pharmacy on checkout. 
+
+**Check in on the regular**
+Input data about how you’re doing at regular intervals. If your provider notices something is up, they’ll reach back out. 
+
+**Ask medical questions as they arise**
+Every protocol is run by a specialist who knows your specific condition and drug therapy inside and out. Have an issue and they’ll help you resolve it or escalate it. 
+
+**Keep cruising** 
+Never worry about your meds again. Pharmr let’s you cruise indefinitely on your Humira, byktarvi or lispro and so you never skip a beat. We made drug therapy easier, so you Have time to do other stuff. 
 
 # Why  
 <br>
