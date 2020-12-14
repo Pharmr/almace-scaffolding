@@ -8,7 +8,7 @@ desc:
 <br>
 **To work on Pharmr, you'll first create a microservice**
 
-Providers have flexibilty in what they manage and what therapeutics they offer. A new service can be created in a few simple steps: 
+Providers have flexibilty in what they manage and what therapeutics they offer. A new service can be created in just a few steps: 
 
 1. Choose a condition   
 2. Determine your patient population & eligibility  
