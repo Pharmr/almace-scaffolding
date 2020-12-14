@@ -5,10 +5,10 @@ permalink: /providers/
 desc:
 ---
 # Getting started for providers
+<br>
+**To work on Pharmr, you'll first create your own microservice**
 
-**To work on Pharmr, you'll need to create your own microservice**
-
-Providers have flexibilty in what they manage and what therapeutics they offer. A new service can be created in a few steps: 
+Providers have flexibilty in what they manage and what therapeutics are offered. A new service can be created in a few simple steps: 
 
 1. Choose a condition   
 2. Determine your patient population & eligibility  
@@ -19,9 +19,9 @@ Providers have flexibilty in what they manage and what therapeutics they offer. 
 With Pharmr, you can practice your own brand of lightweight specialty medicine and reach patients from across the country. 
 
 
-# Seeing patients & general workflow
-
-**By operating a microservice, you'll be helping patients in your population manage their condition and drug therapy online.**  
+# Seeing patients
+<br>
+**By working on the Pharmr platform, you'll be helping patients in your population manage their condition and drug therapy online.**  
 
 Stuff you'll be doing:  
 
@@ -43,8 +43,8 @@ Stuff you can skip:
 
 
 # How you get paid  
-
-**Pharmr is a subscription-based drug therapy service. Patients pay a fixed amount every month that is remitted to you the provider. Efficient providers can manage thousands of patients per month.**  
+<br>
+**Pharmr is a subscription-based drug therapy service. Patients pay a fixed amount every month that is remitted back to you. Efficient providers can manage thousands of patients per month.**  
 
 | Standard protocols | Complex conditions or therapeutics | Rare diseases & psychiatric services |
 |--------------------|------------------------------------|--------------------------------------|
@@ -54,7 +54,7 @@ Stuff you can skip:
 
 
 # Provider onboarding
-
+<br>
 **Thinking of doing something new on Pharmr?**  
 
 Eligible providers meet the following criteria:  
@@ -69,7 +69,7 @@ Additionally, providers can speak with someone about the process directly by ema
 
 
 # Frequently Asked Questions   
-
+<br>
 **How do you manage patient insurance?**  
 Pharmr's base subscription is for cash paying patients only as explicility stated in our terms. Insurance can be used for the cost of drugs though. Providers, at their own descretion, determine what what they will and won't support in regards to insurance reimburesment for medication sin their protocol description.  
 
