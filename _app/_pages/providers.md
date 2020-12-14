@@ -1,60 +1,57 @@
 ---
 layout: page
-title: Help patients cruise on their drug therapy– in your specialty
+title: Help patients cruise on their drug therapy – in your specialty
 permalink: /providers/
-desc: Practice specialty medicine at scale
+desc:
 ---
-## How it works  
+# Getting started
 
-**Create your own [microservice](https://cranky-johnson-407f0c.netlify.app/cgrpmigraine.html) on Pharmr**  
+**Providers have flexibilty in what they manage and what therapeutics they offer. To get started, providers can create their own lightweight service.**
 
-1. Choose a specific condition or conditions  
-2. Determine patient population & eligibility  
-2. Build your formulary with specific drugs or drug classes  
-3. Create your onboarding and followup questionaires  
+1. Choose a condition   
+2. Determine your patient population & eligibility  
+2. Build your formulary    
+3. Create your onboarding & followup forms  
 4. Start accepting new patients  
 
-Have the flexibility to practice your own brand of lightweight specialty medicine at scale and reach patients from accross the country. 
+With Pharmr, practice your own brand of lightweight specialty medicine at scale and reach patients from across the country. 
 
+# What you do
 
-## What you do
-
-**By working on Pharmr, you'll be helping chronic care patients manage their condition and specific drug therapy online:**  
+**By working on Pharmr, you'll be helping chronic care patients manage their condition and specific drug therapy online.**  
 
 Patient onboarding  
-Lightweight condition monitoring  
+Lightweight monitoring  
 Prescription management  
   -Refills  
   -Reorder requests  
   -Changes in drug therapy  
-Answering patient questions through chat  
-Referrals out  
+Answering questions through chat  
+Simple referrals  
 
-**What you won't be doing:**   
+**Stuff you can skip**   
 
 After hours charting  
 Prior authorizations  
 Interfacing with insurance providers  
 
+# How you get paid  
 
-## How you get paid  
-
-Pharmr is a subscription-based model. Each patient pays a fixed dollar amount per month that is remitted to you in 30 day intervals. Efficient providers can manage thousands of patients per month. 
+Pharmr is a subscription-based service. Patients pay a fixed amount each month that is remitted to you every 30 days. Efficient providers can manage thousands of patients per month. 
 
 | Standard protocols | Complex conditions or therapeutics | Rare diseases & psychiatric services |
 |--------------------|------------------------------------|--------------------------------------|
 | $7/patient/month   | $14/patient/month                  | $21/patient/month                    |
 
-*Includes EMR, ID proofing, payment processing and other annoying stuff*  
+*Inclusive of EMR, ID proofing, payment processing & ACH fees  
 
-
-## Getting started   
+# Starting your own service
 
 **Thinking of doing something new on Pharmr?**  
 
 Providers should meet the following criteria:  
-1. Be a US licensed physcian with no pending actions or malpractice suits.  
-2. Have excellent conversing skills via remote & digital means.  
+1. Be a US licensed physcian with no pending actions.  
+2. Have excellent communication skills via chat & video.  
 3. Ability to manage your own lightweight practice, part time or full time (we'll be offering delegate support in the near future).  
 4. Committed to doing something rad and taking the next step in digital health.  
 
@@ -62,8 +59,7 @@ Interested parties may complete a *microservice request application* here.
 
 Additionally, providers can speak with someone about the process directly by emailing/discord/reddit phone something and arranging a 30 minute video call. 
 
-
-## Frequently Asked Questions   
+# Frequently Asked Questions   
 
 **How do you manage patient insurance?**  
 Pharmr's base subscription is for cash paying patients only as explicility stated in our terms. Insurance can be used for the cost of drugs though. Providers, at their own descretion, determine what what they will and won't support in regards to insurance reimburesment for medication sin their protocol description.  
@@ -93,3 +89,8 @@ Pharmr has the same liabilty protections as Teledoc. Yes, you will need your own
 <p class="largetype">
   <a href="{{ '/getting-started.html' | relative_url }}">Get in touch →</a>
 </p>
+
+
+**Create your own [microservice](https://cranky-johnson-407f0c.netlify.app/cgrpmigraine.html) on Pharmr**  
+
+Have the flexibility to practice your own brand of lightweight specialty medicine at scale and reach patients from accross the country. 
