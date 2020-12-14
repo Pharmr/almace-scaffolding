@@ -6,7 +6,9 @@ desc:
 ---
 # Getting started
 
-**Providers have flexibilty in what they manage and what therapeutics they offer. To get started, providers can create their own lightweight service.**
+**Step 1: Create your own microservice**
+
+Providers have flexibilty in what they manage and what therapeutics they offer. They can create a new service in a few simple steps: 
 
 1. Choose a condition   
 2. Determine your patient population & eligibility  
@@ -14,7 +16,7 @@ desc:
 3. Create your onboarding & followup forms  
 4. Start accepting new patients  
 
-With Pharmr, practice your own brand of lightweight specialty medicine at scale and reach patients from across the country. 
+With Pharmr, practice your own brand of lightweight specialty medicine and reach patients from across the country. 
 
 # What you do
 
