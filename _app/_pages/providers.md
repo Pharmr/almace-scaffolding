@@ -44,7 +44,7 @@ Stuff you can skip:
 
 # How you get paid  
 <br>
-**Pharmr is a subscription-based drug therapy service. Patients pay a fixed amount every month that is remitted back to you. Efficient providers can manage thousands of patients per month.**     
+**Pharmr is a subscription-based drug therapy service. Patients pay a fixed amount each month that is remitted back to you. Efficient providers can manage thousands of patients per month.**     
 
 | Standard protocols | Complex conditions or therapeutics | Rare diseases & psychiatric services |
 |--------------------|------------------------------------|--------------------------------------|
@@ -88,11 +88,27 @@ Pharmr currently supports 3 means of patient interaction:
 **Can I prescribe scheduled drugs?**  
 Not currently.  
 
-**I want to make my own microservice. How specific does it have to be?**  
-Micoservices are intended to be very specific: A single condition + a single class of theraputics (e.g. mild intermittent asthma + beta-2 agonisits). In some cases, it may make sense to include multiple conditions or drug classes into a single microservice. The rule being, if there is expected overlap in treatments in a given patient population, you should include both treatments (e.g. mild intermitten astha, mild to moderate persistant asthma + beta-2 agonists, ICS & ICS/LABA).  
+**I want to make my own microservice. How specific does it have to be?**
+(This answer is currently terrrible!!!) Micoservices are intended to be very specific: A single condition + a single class of theraputics (e.g. mild intermittent asthma + beta-2 agonisits). In some cases, it may make sense to include multiple conditions or drug classes into a single microservice. The rule being, if there is expected overlap in treatments in a given patient population, you should include both treatments (e.g. mild intermitten astha, mild to moderate persistant asthma + beta-2 agonists, ICS & ICS/LABA).  
 
 **Do I need my own malpractice insurance?**  
 Pharmr has the same liabilty protections as Teledoc. Yes, you will need your own medmal coverage. Pharmr will provide cyber, general liability & and an umbrella policy for it's providers. Providers may purchase higher rates of coverage if they so choose.  
+
+**Can I ban patients**
+
+**Can I reject patients**
+
+**What about labs**
+
+**Something about response times - 7 days**
+
+**A note about ID.me**
+
+**Additional fees for physcain delegates on a microservice**
+
+**Getting the word out/marketing stuff per service**
+
+
 
 <br>
 <p class="largetype">
