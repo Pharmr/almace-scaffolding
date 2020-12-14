@@ -3,6 +3,7 @@ layout: post
 title: Getting Started
 category: note
 tags: getting-started
+hidden: true
 ---
 
 ## Requirements

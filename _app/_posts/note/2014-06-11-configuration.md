@@ -3,6 +3,7 @@ layout: post
 title: Configuration
 category: note
 tags: getting-started
+hidden: true
 ---
 
 ## Configuration Settings

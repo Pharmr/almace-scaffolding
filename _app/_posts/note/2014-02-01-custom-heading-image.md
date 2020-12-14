@@ -3,6 +3,7 @@ layout: post
 title: Custom Heading Image
 category: note
 tags: curtana
+hidden: true
 heading-img: svg/heading-image-example.svg
 heading-img-local: true
 ---

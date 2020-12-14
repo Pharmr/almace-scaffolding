@@ -3,6 +3,7 @@ layout: post
 title: Creating Your Own Theme
 category: note
 tags: customization
+hidden: true
 ---
 
 ## Overview

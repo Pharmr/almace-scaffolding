@@ -3,6 +3,7 @@ layout: post
 title: Markdown Features Test
 category: note
 tags: miscellaneous
+hidden: true
 ---
 
 ## Indented Code Blocks

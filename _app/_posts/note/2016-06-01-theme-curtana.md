@@ -3,6 +3,7 @@ layout: post
 title: Introducing Curtana
 category: note
 tags: curtana
+hidden: true
 ---
 
 Curtana is the default theme of [AMSF](https://sparanoid.com/lab/amsf/) (Almace Scaffolding).

@@ -3,6 +3,7 @@ layout: post
 title: Unique Post Styling via Custom CSS
 category: note
 tags: curtana
+hidden: true
 scheme-text: "#000"
 scheme-link: "#a73300"
 scheme-hover: "#ff4e00"

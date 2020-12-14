@@ -4,6 +4,7 @@ title: Open Graph
 category: note
 plugin: lightense
 tags: curtana
+hidden: true
 ---
 
 Theme Curtana has full Open Graph and Twitter Cards support.

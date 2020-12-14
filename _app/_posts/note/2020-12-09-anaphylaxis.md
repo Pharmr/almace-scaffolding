@@ -4,6 +4,7 @@ title: Anaphylaxis
 category: note
 link: https://nytimes.com/
 tags: curtana
+hidden: true
 ---
 
 BEES!!!:

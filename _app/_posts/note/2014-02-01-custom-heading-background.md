@@ -3,6 +3,7 @@ layout: post
 title: Custom Heading Background
 category: note
 tags: curtana
+hidden: true
 heading-bg: img/heading-background-example.jpg
 heading-bg-local: true
 heading-bg-color: "#070708"

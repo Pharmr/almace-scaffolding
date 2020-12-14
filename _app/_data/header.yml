@@ -3,6 +3,7 @@
 
 - title: News
   url:   /news/
+  hidden: true
 
 - title: About
   url:   /about/
