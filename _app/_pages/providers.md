@@ -8,7 +8,7 @@ desc:
 <br>
 **To work on Pharmr, you'll first create a microservice**
 
-Providers have flexibilty in what they manage and what therapeutics are offered. A new service can be created in a few simple steps: 
+Providers have flexibilty in what they manage and what therapeutics they offer. A new service can be created in a few simple steps: 
 
 1. Choose a condition   
 2. Determine your patient population & eligibility  
@@ -44,15 +44,15 @@ Stuff you can skip:
 
 # How you get paid  
 <br>
-**Pharmr is a subscription-based drug therapy service.**  
-
-Patients pay a fixed amount every month that is remitted back to you. The below pricing is inclusive of all fees. Efficient providers can manage thousands of patients per month.   
+**Pharmr is a subscription-based drug therapy service. Patients pay a fixed amount every month that is remitted back to you. Efficient providers can manage thousands of patients per month.**     
 
 | Standard protocols | Complex conditions or therapeutics | Rare diseases & psychiatric services |
 |--------------------|------------------------------------|--------------------------------------|
 | $7/patient/month   | $14/patient/month                  | $21/patient/month                    |
 
-<br>
+*Pricing is inclusive of all fees
+
+
 # Provider onboarding
 <br>
 **Thinking of doing something new on Pharmr?**  
