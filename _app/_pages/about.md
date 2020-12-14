@@ -4,23 +4,26 @@ title: Managing your meds sucks. Pharmr fixed it.
 permalink: /about/
 desc: 
 ---
-# We built a tool for the 100,000,000 people who take maintenance or continuation therapy every day. So you can cruise on your drug therapy without interruption, and have more time to do other stuff.
+# We built a tool for the 100,000,000 people who take maintenance or continuation therapy every day. So you can cruise on your drug therapy and leave the bs behind.
 <br>
 # How it works
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 **Find a protocol and subscribe**  
 Each protocol organized by a condition and drug class. A simple subscription lets you access a specialist and the drugstore in an ongoing basis. Approval required.  
-
+![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 **Get meds and have them shipped to you**  
 First of its kind programmatic control of your scripts. Get, refill, reorder and easily switch between drugs of the same class. Choose any pharmacy on checkout.  
 
+![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 **Check in on the regular**  
 Input data about how you’re doing at regular intervals. If your provider notices something is up, they’ll reach back out.   
 
+![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 **Ask medical questions as they arise**  
 Every protocol is run by a specialist who knows your specific condition and drug therapy inside and out. Have an issue and they’ll help you resolve it or escalate it.  
 
+![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 **Keep cruising**   
 Never worry about your meds again. Pharmr let’s you cruise indefinitely on your Humira, byktarvi or lispro and so you never skip a beat. We made drug therapy easier, so you Have time to do other stuff.   
 
