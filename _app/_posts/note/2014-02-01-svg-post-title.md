@@ -1,7 +1,8 @@
 ---
 layout: post
 title: SVG Post Title
-category: note
+category: note 
+tags: curtana
 hidden: false
 ---
 
