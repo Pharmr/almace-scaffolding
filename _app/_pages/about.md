@@ -1,22 +1,16 @@
 ---
 layout: page
-title: We're on a mission to make 'being sick' suck less
+title: Managing your meds sucks. Pharmr fixed it.
 permalink: /about/
 desc: 
 ---
-# Over 10000000 million people take (a (are on a) maintenance therapy) daily medications. We’re here to make it easier.  
-
-# 100,000,000 people are on maintenance or continuation therapy. We’re here to make it easier.   
-
-100,000,000 people are on (a) maintenance or continuation therapy. We made it better.  
-
-We found a better way.  
-
+# We built a tool for the 100,000,000 people who take maintenance or continuation therapy every day. So you can cruise on your drug therapy and have time for other shit. 
+<br>
 # How it works
-
+<br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 **Find a protocol and subscribe**  
-Each protocol organized by a specific condition and class of drugs. A simple subscription lets you access a specialist and the drugstore in an ongoing basis. Approval required.  
+Each protocol organized by a condition and drug class. A simple subscription lets you access a specialist and the drugstore in an ongoing basis. Approval required.  
 
 **Get meds and have them shipped to you**  
 First of its kind programmatic control of your scripts. Get, refill, reorder and easily switch between drugs of the same class. Choose any pharmacy on checkout.  
