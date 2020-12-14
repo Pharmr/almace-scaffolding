@@ -4,7 +4,7 @@ title: Managing your meds sucks. Pharmr fixed it.
 permalink: /about/
 desc: 
 ---
-# We built a tool for the 100,000,000 people who take maintenance or continuation therapy every day. So you can cruise on your drug therapy and have time for other shit. 
+# We built a tool for the 100,000,000 people who take maintenance or continuation therapy every day. So you can cruise without interruption on your drug therapy, and have time to do other stuff.
 <br>
 # How it works
 <br>
