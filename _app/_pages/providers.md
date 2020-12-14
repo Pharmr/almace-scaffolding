@@ -4,11 +4,11 @@ title: Help patients cruise on their drug therapy – in your specialty
 permalink: /providers/
 desc:
 ---
-# Getting started
+# Getting started for providers
 
-**Step 1: Create your own microservice**
+**To work on Pharmr, you'll need to create your own microservice**
 
-Providers have flexibilty in what they manage and what therapeutics they offer. They can create a new service in a few simple steps: 
+Providers have flexibilty in what they manage and what therapeutics they offer. A new service can be created in a few steps: 
 
 1. Choose a condition   
 2. Determine your patient population & eligibility  
@@ -16,30 +16,35 @@ Providers have flexibilty in what they manage and what therapeutics they offer. 
 3. Create your onboarding & followup forms  
 4. Start accepting new patients  
 
-With Pharmr, practice your own brand of lightweight specialty medicine and reach patients from across the country. 
+With Pharmr, you can practice your own brand of lightweight specialty medicine and reach patients from across the country. 
 
-# What you do
 
-**By working on Pharmr, you'll be helping chronic care patients manage their condition and specific drug therapy online.**  
+# Seeing patients & general workflow
 
-Patient onboarding  
-Lightweight monitoring  
-Prescription management  
-  -Refills  
-  -Reorder requests  
-  -Changes in drug therapy  
-Answering questions through chat  
-Simple referrals  
+**By operating a microservice, you'll be helping patients in your population manage their condition and drug therapy online.**  
 
-**Stuff you can skip**   
+Stuff you'll be doing:  
 
-After hours charting  
-Prior authorizations  
-Interfacing with insurance providers  
+- Patient onboarding  
+- Lightweight monitoring  
+- Prescription management  
+  - Refills  
+  - Reorder requests  
+  - Changes in drug therapy  
+- Answering questions through chat  
+- Simple referrals  
+
+Stuff you can skip:  
+
+- After hours charting  
+- Prior authorizations  
+- Interfacing with insurance providers  
+- Interfacing with pharmacies 
+
 
 # How you get paid  
 
-Pharmr is a subscription-based service. Patients pay a fixed amount each month that is remitted to you every 30 days. Efficient providers can manage thousands of patients per month. 
+**Pharmr is a subscription-based drug therapy service. Patients pay a fixed amount every month that is remitted to you the provider. Efficient providers can manage thousands of patients per month.**  
 
 | Standard protocols | Complex conditions or therapeutics | Rare diseases & psychiatric services |
 |--------------------|------------------------------------|--------------------------------------|
@@ -47,19 +52,21 @@ Pharmr is a subscription-based service. Patients pay a fixed amount each month t
 
 *Inclusive of EMR, ID proofing, payment processing & ACH fees  
 
-# Starting your own service
+
+# Provider onboarding
 
 **Thinking of doing something new on Pharmr?**  
 
-Providers should meet the following criteria:  
-1. Be a US licensed physcian with no pending actions.  
-2. Have excellent communication skills via chat & video.  
-3. Ability to manage your own lightweight practice, part time or full time (we'll be offering delegate support in the near future).  
-4. Committed to doing something rad and taking the next step in digital health.  
+Eligible providers meet the following criteria:  
+- Be a US licensed physcian with no pending actions.  
+- Have excellent communication skills via chat & video.  
+- Ability to manage your own lightweight practice, part time or full time (we'll be offering delegate support in the near future).  
+- Committed to doing something rad and taking the next step in digital health.  
 
 Interested parties may complete a *microservice request application* here.  
 
 Additionally, providers can speak with someone about the process directly by emailing/discord/reddit phone something and arranging a 30 minute video call. 
+
 
 # Frequently Asked Questions   
 
