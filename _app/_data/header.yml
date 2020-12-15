@@ -1,10 +1,6 @@
 - title: __home__
   url:   /
 
-- title: News
-  url:   /news/
-  hidden: true
-
 - title: About
   url:   /about/
   
