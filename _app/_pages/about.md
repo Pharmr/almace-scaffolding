@@ -4,11 +4,14 @@ title: Managing your meds sucks. Pharmr fixed it.
 permalink: /about/
 desc: 
 ---
-
-# Being sick sucks. Managing your meds doesn't have to.
-{: style="color:#EEEEEE; font-size: 250%; text-align: center; line-height: 1.2;"}
 <br>
-<h1 style="text-align:center;"> We built a tool for the 100,000,000 people who depend on maintenance or continuation therapy each year. So you can cruise on your critical meds uniterrupted and leave the bs behind.</h1> 
+<br>
+<br>
+![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
+# Being sick sucks. Pharmr makes it easier.
+{: style="color:#DDDDDD; font-size: 250%; text-align: center; line-height: 1.2;"}
+<br>
+<h1 style="text-align:center;"> We built a tool for the hundred million people who depend on maintenance & continuation therapy each year. So you can cruise on your critical meds uniterrupted and leave the bs behind.</h1> 
 <br>
 <br>
 <h1 style="text-align:center;"> How it works</h1>
@@ -164,3 +167,7 @@ All posts are &copy; Sparanoid, Inc., all rights reserved.
 <br>
 
 <h1 style="text-align:center;"> We built a tool for the 100,000,000 people who take maintenance or continuation therapy each day. So you can cruise on your drug therapy and leave the bs behind.</h1> 
+
+# Being sick sucks. Managing your meds doesn't have to.
+{: style="color:#EEEEEE; font-size: 250%; text-align: center; line-height: 1.2;"}
+<br>
