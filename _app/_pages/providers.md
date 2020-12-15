@@ -43,7 +43,7 @@ Stuff you can skip:
 
 # How you get paid  
 <br>
-**Pharmr is a subscription-based drug therapy service. Patients pay a fixed amount each month that is remitted back to you. Efficient providers can manage thousands of patients per month.**     
+**Pharmr is a subscription-based drug therapy platform. Patients pay a fixed amount each month that is remitted back to you. Efficient providers can manage thousands of patients per month.**     
 
 | Standard protocols | Complex conditions or therapeutics | Rare diseases & psychiatric services |
 |--------------------|------------------------------------|--------------------------------------|
