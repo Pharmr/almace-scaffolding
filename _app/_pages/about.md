@@ -8,6 +8,8 @@ desc:
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 # Pharmr is subscription based platform for chronic care patients. We make maintainace therapy easy and accessible. Cruise on your Humira, Biktarvy or insulin without missing a beat.  
 
+# The fastest way to get refills and manage your condition all in one place.
+
 # Pharmr is a platform built for patients that makes maintenance therapy easy and accessible. So you can cruise on your Humira, Biktarvy or insulin without missing a beat. 
 {: style="color: black; font-size: 150%; text-align: center; line-height: 1.2;"}
 <br>
