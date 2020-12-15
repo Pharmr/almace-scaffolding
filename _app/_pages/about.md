@@ -9,7 +9,7 @@ desc:
 # Being sick sucks. <br> Pharmr makes it easier.
 {: style="color:#DDDDDD; font-size: 250%; text-align: center; line-height: 1.2;"}
 <br>
-<h1 style="text-align:center;"> We built a tool for the hundred million people who depend on drug therapy to live their lives. So you can get to that state where you're cruising, not just surviving. With Pharmr, access cutting-edge therapies, control your own scripts, and never run out insulin again.</h1> 
+<h1 style="text-align:center;"> We built a tool for the hundred million people who depend on drug therapy to live their lives. So you can get to that state where you're cruising, not just surviving. Access cutting-edge therapies, control your own scripts, and never run out insulin again.</h1> 
 <br>
 <br>
 <h1 style="text-align:center;"> How it works</h1>
