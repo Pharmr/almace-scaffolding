@@ -16,6 +16,10 @@ desc:
 <hr style="height:50px; visibility:hidden;" />
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center} 
 
+# Cruise on your maintenance therapy without drama or interruption, supported by specialists who (eat and breathe this stuff) nerd out over your sypmtoms and side effects. 
+
+# Cruise on your maintenance therapy without drama or interruption, supported by nerdy specialists who truly get "you" 
+
 <p style="text-align:center; font-weight:bold;">Find a protocol and subscribe</p>  
 <p style="text-align:center;">Each protocol organized by a condition and drug class. A simple subscription lets you access a specialist and the drugstore in an ongoing basis. Approval required. </p> 
 <br>
