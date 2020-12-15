@@ -5,14 +5,10 @@ permalink: /about/
 desc: 
 ---
 
-# Drug therapy is hard. It doesn't have to be.
-{: style="color:#9325FB; font-size: 300%; text-align: center;"}
+# Being sick sucks. Managing your meds doesn't have to.
+{: style="color:#EEEEEE; font-size: 250%; text-align: center; line-height: 1.2;"}
 <br>
-
-# We built a tool for the 100,000,000 people who take maintenance & continuation therapy each day. So you can cruise on your drug therapy and leave the bs behind.
-{: style="color: white; font-size: 200%; text-align: center; line-height: 1.2;"}
-<br>
-<h1 style="text-align:center;"> We built a tool for the 100,000,000 people who take maintenance or continuation therapy every day. So you can cruise on your drug therapy and leave the bs behind.</h1> 
+<h1 style="text-align:center;"> We built a tool for the 100,000,000 people who depend on maintenance or continuation therapy each year. So you can cruise on your critical meds uniterrupted and leave the bs behind.</h1> 
 <br>
 <br>
 <h1 style="text-align:center;"> How it works</h1>
@@ -162,3 +158,9 @@ Sparanoid is a design studio operated by Tunghsiao Liu. You can ping me on [Twit
 All posts are &copy; Sparanoid, Inc., all rights reserved.
 
 *[AMSF]: Almace Scaffolding
+
+# Drug therapy is hard. It doesn't have to be.
+{: style="color:#9325FB; font-size: 300%; text-align: center;"}
+<br>
+
+<h1 style="text-align:center;"> We built a tool for the 100,000,000 people who take maintenance or continuation therapy each day. So you can cruise on your drug therapy and leave the bs behind.</h1> 
