@@ -9,17 +9,13 @@ desc:
 # Being sick sucks. <br> Pharmr makes it easier.
 {: style="color:#DDDDDD; font-size: 250%; text-align: center; line-height: 1.2;"}
 <br>
-<h1 style="text-align:center;"> We built a tool for the hundred million people who depend on drug therapy to live their lives. So you can get to that state where you're cruising, not just surviving. Access cutting-edge therapies, control your own scripts, and never run out insulin again.</h1> 
+<h1 style="text-align:center;"> We built a tool for the hundred million people who depend on drug therapy to live their lives. So you can get to that state where you're cruising, not just surviving.</h1> 
 <br>
+With Pharmr, access cutting-edge therapies, control your own scripts, and never run out insulin again.
 <br>
 <h1 style="text-align:center;"> How it works</h1>
 <hr style="height:50px; visibility:hidden;" />
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center} 
-
-# Cruise on your maintenance therapy without drama or interruption, supported by specialists who (eat and breathe this stuff) nerd out over your sypmtoms and side effects. 
-
-# Cruise on your maintenance therapy without drama or interruption, supported by nerdy specialists who truly get "you" 
-
 <p style="text-align:center; font-weight:bold;">Find a protocol and subscribe</p>  
 <p style="text-align:center;">Each protocol organized by a condition and drug class. A simple subscription lets you access a specialist and the drugstore in an ongoing basis. Approval required. </p> 
 <br>
@@ -177,3 +173,7 @@ All posts are &copy; Sparanoid, Inc., all rights reserved.
 <h1 style="text-align:center;"> We built a tool for the hundred million people who depend on maintenance & continuation therapy each year. So you can cruise on your critical meds uniterrupted and leave the bs behind.</h1> 
 
 <h1 style="text-align:center;"> We built a tool for the hundred million people who take maintenance & continuation therapy each year. So you can cruise on your critical meds uniterrupted, and leave the bs behind.</h1> 
+
+ # Cruise on your maintenance therapy without drama or interruption, supported by specialists who (eat and breathe this stuff) nerd out over your sypmtoms and side effects. 
+
+# Cruise on your maintenance therapy without drama or interruption, supported by nerdy specialists who truly get "you" 
