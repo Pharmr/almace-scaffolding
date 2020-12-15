@@ -5,12 +5,12 @@ permalink: /about/
 desc: 
 ---
 
-# Big Words
-{: style="color:#4F45A1; font-size: 400%; text-align: center;"}
+# Drug therapy is hard. It doesn't have to be.
+{: style="color:#9325FB; font-size: 300%; text-align: center;"}
 <br>
 
-# We built a tool for the 100,000,000 people who take maintenance or continuation therapy every day. So you can cruise on your drug therapy and leave the bs behind.
-{: style="color: black; font-size: 200%; text-align: center; line-height: 1.2;"}
+# We built a tool for the 100,000,000 people who take maintenance & continuation therapy each day. So you can cruise on your drug therapy and leave the bs behind.
+{: style="color: white; font-size: 200%; text-align: center; line-height: 1.2;"}
 <br>
 <h1 style="text-align:center;"> We built a tool for the 100,000,000 people who take maintenance or continuation therapy every day. So you can cruise on your drug therapy and leave the bs behind.</h1> 
 <br>
