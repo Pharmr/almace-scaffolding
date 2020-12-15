@@ -5,7 +5,7 @@ permalink: /about/
 desc: 
 ---
 <br>
-![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
+![Image](https://raw.githubusercontent.com/Pharmr/static-landing/d8e122d69662b12e7c41dc9090e3d9efc57a287a/_app/assets/svg/santa-crestor.svg){: .no-resize.center}  
 # Being sick sucks. <br> Pharmr makes it easier.
 {: style="color:#DDDDDD; font-size: 250%; text-align: center; line-height: 1.2;"}
 <br>
