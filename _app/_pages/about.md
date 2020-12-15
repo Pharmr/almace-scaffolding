@@ -5,11 +5,9 @@ permalink: /about/
 desc: 
 ---
 <br>
-![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/santa-crestor.svg){: .no-resize.center}  
-# Being sick sucks. <br> Pharmr makes it easier.
-{: style="color:#DDDDDD; font-size: 250%; text-align: center; line-height: 1.2;"}
+![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
+# Pharmr is a platform built for patients that makes maintenance therapy easy and accessible. So you can cruise on your Humira, Biktarvy or insulin without missing a beat. {: style="color:#DDDDDD; font-size: 250%; text-align: center; line-height: 1.2;"}
 <br>
-<h1 style="text-align:center;"> We built a tool for the hundred million people who depend on drug therapy to live their lives. So you can get to that state where you're cruising, not just surviving.</h1> 
 <br>
 With Pharmr, access cutting-edge therapies, control your own scripts, and never run out insulin again.
 <br>
@@ -177,3 +175,17 @@ All posts are &copy; Sparanoid, Inc., all rights reserved.
  # Cruise on your maintenance therapy without drama or interruption, supported by specialists who (eat and breathe this stuff) nerd out over your sypmtoms and side effects. 
 
 # Cruise on your maintenance therapy without drama or interruption, supported by nerdy specialists who truly get "you" 
+
+
+<br>
+![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/santa-crestor.svg){: .no-resize.center}  
+# Being sick sucks. <br> Pharmr makes it easier.
+{: style="color:#DDDDDD; font-size: 250%; text-align: center; line-height: 1.2;"}
+<br>
+<h1 style="text-align:center;"> We built a tool for the hundred million people who depend on drug therapy to live their lives. So you can get to that state where you're cruising, not just surviving.</h1> 
+<br>
+With Pharmr, access cutting-edge therapies, control your own scripts, and never run out insulin again.
+<br>
+<h1 style="text-align:center;"> How it works</h1>
+<hr style="height:50px; visibility:hidden;" />
+![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center} 
