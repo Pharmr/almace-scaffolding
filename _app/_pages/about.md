@@ -6,12 +6,11 @@ desc:
 ---
 <br>
 <br>
-<br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 # Being sick sucks. <br> Pharmr makes it easier.
 {: style="color:#DDDDDD; font-size: 250%; text-align: center; line-height: 1.2;"}
 <br>
-<h1 style="text-align:center;"> We built a tool for the hundred million people who take maintenance & continuation therapy each year. So you can cruise on your critical meds uniterrupted, and leave the bs behind.</h1> 
+<h1 style="text-align:center;"> We built a tool for the hundred million people who depend on drug therapy to live their lives. So you can get to that state where you're cruising, not just surviving. So you can cruise on your critical meds uniterrupted, and leave the bs behind.</h1> 
 <br>
 <br>
 <h1 style="text-align:center;"> How it works</h1>
@@ -173,3 +172,5 @@ All posts are &copy; Sparanoid, Inc., all rights reserved.
 <br>
 
 <h1 style="text-align:center;"> We built a tool for the hundred million people who depend on maintenance & continuation therapy each year. So you can cruise on your critical meds uniterrupted and leave the bs behind.</h1> 
+
+<h1 style="text-align:center;"> We built a tool for the hundred million people who take maintenance & continuation therapy each year. So you can cruise on your critical meds uniterrupted, and leave the bs behind.</h1> 
