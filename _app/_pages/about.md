@@ -7,7 +7,7 @@ desc:
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 # Pharmr is a platform built for patients that makes maintenance therapy easy and accessible. So you can cruise on your Humira, Biktarvy or insulin without missing a beat. 
-{: style="color:#DDDDDD; font-size: 250%; text-align: center; line-height: 1.2;"}
+{: style="color: black; font-size: 150%; text-align: center; line-height: 1.2;"}
 <br>
 <br>
 With Pharmr, access cutting-edge therapies, control your own scripts, and never run out insulin again.
