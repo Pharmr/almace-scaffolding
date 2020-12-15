@@ -10,8 +10,6 @@ desc:
 {: style="color: black; font-size: 150%; text-align: center; line-height: 1.2;"}
 <br>
 <br>
-With Pharmr, access cutting-edge therapies, control your own scripts, and never run out insulin again.
-<br>
 <h1 style="text-align:center;"> How it works</h1>
 <hr style="height:50px; visibility:hidden;" />
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center} 
@@ -51,7 +49,8 @@ Otherwise, <span style="font-weight: bold;">happy cruising 🏄.</span></p>
 <br>
 # FAQ 
 <br>
-
+**What is Pharmr**
+Pharmr is a subscription-based drug therapy platform for patients with chronic conditions. 
 <details>
   <summary>Supported Fonts</summary>
   <ul>
