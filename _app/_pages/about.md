@@ -6,10 +6,9 @@ desc:
 ---
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
-
 <h1 style="text-align:center;">Being sick sucks</h1>
 <br>
-<h3 style="text-align:center;">Pharmr is on a mission to make maintenance therapy easy and accessible to chronic care patients. So you can cruise on your Humira, Biktarvy or insulin and never miss a beat.</h3> 
+<h2 style="text-align:center;">Pharmr is on a mission to make maintenance therapy easy and accessible to chronic care patients. So you can cruise on your Humira, Biktarvy or insulin and never miss a beat.</h2> 
 
 # The fastest way to get refills and manage your condition all in one place.  
 
