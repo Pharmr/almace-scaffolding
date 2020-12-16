@@ -8,13 +8,10 @@ desc:
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <h1 style="text-align:center;">Being sick sucks</h1>
 <br>
-<h2 style="text-align:center;">Pharmr is on a mission to make maintenance therapy easy and accessible to chronic care patients. So you can cruise on your Humira, Biktarvy or insulin and never miss a beat.</h2> 
-
-# The fastest way to get refills and manage your condition all in one place.  
-
-# Pharmr is a platform built for patients that makes maintenance therapy easy and accessible. So you can cruise on your Humira, Biktarvy or insulin without missing a beat.  
-
-# Pharmr is subscription based platform for chronic care patients. We make maintainace therapy easy and accessible. Cruise on your Humira, Biktarvy or insulin without missing a beat.  
+<p style="text-align:center;">Pharmr is on a mission to make (cutting edge) maintenance therapy easy and accessible to chronic care patients. So you can cruise on your Humira, Biktarvy or insulin and never miss a beat.</p>
+<br>
+<br>
+<br>
 {: style="color: black; font-size: 150%; text-align: center; line-height: 1.2;"}
 <br>
 <br>
@@ -184,6 +181,12 @@ All posts are &copy; Sparanoid, Inc., all rights reserved.
 
 # Cruise on your maintenance therapy without drama or interruption, supported by nerdy specialists who truly get "you" 
 
+
+# The fastest way to get refills and manage your condition all in one place.  
+
+# Pharmr is a platform built for patients that makes maintenance therapy easy and accessible. So you can cruise on your Humira, Biktarvy or insulin without missing a beat.  
+
+# Pharmr is subscription based platform for chronic care patients. We make maintainace therapy easy and accessible. Cruise on your Humira, Biktarvy or insulin without missing a beat.  
 
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/santa-crestor.svg){: .no-resize.center}  
