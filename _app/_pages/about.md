@@ -8,8 +8,8 @@ desc:
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 
 # Being sick sucks.  
-
-**Pharmr makes maintenance therapy easy and accessible to chronic care patients. So you can cruise on your Humira, Biktarvy or insulin without missing a beat.**  
+<br>
+Pharmr makes maintenance therapy easy and accessible to chronic care patients. So you can cruise on your Humira, Biktarvy or insulin and never miss a beat.  
 
 # The fastest way to get refills and manage your condition all in one place.  
 
