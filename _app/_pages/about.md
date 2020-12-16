@@ -8,7 +8,7 @@ desc:
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <h1 style="text-align:center;">Being sick sucks</h1>
 <br>
-<p style="text-align:center;">Pharmr is on a mission to make maintenance therapy accessible and easy for (define our customer - hustlers) the hundreds of millions of people who take it each day. So you can cruise on your Humira, Biktarvy or insulin effortlessly, and never miss a beat (dose).</p>
+<p style="text-align:center;">Pharmr is on a mission to make maintenance therapy accessible and easy for (define our customer - hustlers) the millions of people who take it each day. So you can cruise on your Humira, Biktarvy or insulin effortlessly, and never miss a beat (dose).</p>
 <br>
 <br>
 <br>
