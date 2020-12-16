@@ -7,8 +7,7 @@ desc:
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <h1 style="text-align:center;">Being sick sucks</h1>
-<br>
-<p style="text-align:center;">Pharmr is on a mission to make (cutting edge) maintenance therapy easy and accessible to chronic care patients. So you can cruise on your Humira, Biktarvy or insulin and never miss a beat.</p>
+<p style="text-align:center;">Pharmr is on a mission to make maintenance therapy super easy for the hundred million people who take it each day. So you can cruise on your Humira, Biktarvy or insulin, and never run out again.</p>
 <br>
 <br>
 <br>
@@ -200,3 +199,7 @@ With Pharmr, access cutting-edge therapies, control your own scripts, and never 
 <h1 style="text-align:center;"> How it works</h1>
 <hr style="height:50px; visibility:hidden;" />
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center} 
+
+<p style="text-align:center;">Pharmr is on a mission to make maintenance therapy easy and accessible to chronic care patients. So you can cruise on your Humira, Biktarvy or insulin and never miss a beat.</p>
+
+<p style="text-align:center;">Pharmr is on a mission to make maintenance therapy easy and accessible to chronic care patients. So you can cruise on your Humira, Biktarvy or insulin, and never run out again.</p>
