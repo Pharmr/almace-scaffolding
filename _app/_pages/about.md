@@ -8,7 +8,7 @@ desc:
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <h1 style="text-align:center;">Being sick sucks</h1>
 <br>
-<p style="text-align:center;">Pharmr is on a mission to make maintenance therapy accessible and easy for (define our customer - hustlers) the millions of people who take it each day. So you can cruise on your Humira, Biktarvy or insulin effortlessly, and never miss a beat (dose).</p>
+<p style="text-align:center;">Pharmr is on a mission to make maintenance therapy easy & accessible for the millions of people who take it each day. That's why we've built special tools to make the process as painless as possible. So you can cruise indefinitly on your critical meds, no interruptions, no speedbumps, no bs, and never miss a dose again.</p>
 <br>
 <br>
 <br>
@@ -19,7 +19,7 @@ desc:
 <hr style="height:50px; visibility:hidden;" />
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center} 
 <p style="text-align:center; font-weight:bold;">Find a protocol and subscribe</p>  
-<p style="text-align:center;">Each protocol organized by a condition and drug class. A simple subscription lets you access a specialist and the drugstore in an ongoing basis. Approval required. </p> 
+<p style="text-align:center;"Every protocol is run by a specialist who knows your specific condition and drug therapy inside and out. A simple subscription lets you access them and the drugstore in an ongoing basis. </p> 
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p style="text-align:center; font-weight:bold;">Get meds and have them shipped to you</p> 
@@ -206,3 +206,5 @@ With Pharmr, access cutting-edge therapies, control your own scripts, and never 
 <p style="text-align:center;">Pharmr is on a mission to make maintenance therapy easy and accessible to chronic care patients. So you can cruise on your Humira, Biktarvy or insulin, and never run out again.</p>
 
 <p style="text-align:center;">Pharmr is on a mission to make maintenance therapy accessible and easy for the hundred million people who take it each day. So you can cruise on your Humira, Biktarvy or insulin indefinitly, and never miss a beat.</p>
+
+<p style="text-align:center;">Pharmr is on a mission to make maintenance therapy accessible and easy for (define our customer - hustlers) the millions of people who take it each day. So you can cruise on your Humira, Biktarvy or insulin effortlessly, and never miss a beat (dose).</p>
