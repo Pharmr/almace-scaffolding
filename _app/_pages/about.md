@@ -8,7 +8,7 @@ desc:
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <h1 style="text-align:center;">Being sick sucks. Pharmr makes drug therapy simple.</h1>
 <br>
-<p style="text-align:center;">Pharmr is on a mission to make maintenance therapy easy & accessible for the millions of people who take it each day. That's why we've built special tools to make the process as painless as possible. So you can cruise on your <span style="color: #E70FC6; font-weight: bold;">Humira®</span>, <span style="color: #E70FC6; font-weight: bold;">Biktarvy®</span> or <span style="color: #E70FC6; font-weight: bold;">Lispro®</span> without interruption — and never miss a dose.</p>
+<p style="text-align:center;">Pharmr is on a mission to make maintenance therapy easy & accessible for the millions of people who take it daily. That's why we've built special tools to make the process as painless as possible. So you can cruise on your <span style="color: #E70FC6; font-weight: bold;">Humira®</span>, <span style="color: #E70FC6; font-weight: bold;">Biktarvy®</span> or <span style="color: #E70FC6; font-weight: bold;">Lispro®</span> without interruption — and never miss a dose.</p>
 {: style="color: black; font-size: 150%; text-align: center; line-height: 1.2;"}
 <br>
 <h1 style="text-align:center;"> How it works</h1>
