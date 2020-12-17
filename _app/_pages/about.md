@@ -8,7 +8,7 @@ desc:
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <h1 style="text-align:center;">Being sick sucks</h1>
 <br>
-<p style="text-align:center;">Pharmr is on a mission to make maintenance therapy easy & accessible for the millions of people who take it each day. That's why we've built special tools to make the process as painless as possible. So you can cruise on your Humira, Byktarvi or Lispro–no interruptions, no ________— and never miss a dose again.</p>
+<p style="text-align:center;">Pharmr is on a mission to make maintenance therapy easy & accessible for the millions of people who take it each day. That's why we've built special tools to make the process as painless as possible. So you can cruise indefinitly on your <span style="color: #E70FC6; font-weight: bold;">Humira®</span>, <span style="color: #E70FC6; font-weight: bold;">Biktarvy®</span> or <span style="color: #E70FC6; font-weight: bold;">Lispro®</span>–no interruptions, no bs— and never miss a dose again.</p>
 <br>
 <br>
 <br>
