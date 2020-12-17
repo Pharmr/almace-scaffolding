@@ -1,11 +1,11 @@
 ---
 layout: post
-title: CGRPmigraine 😭
+title: Emgality® for migraine
 category: note
 tags: protocols
 ---
 
-<p class="largetype">CGRPmigraine 😭 </p>
+<p class="largetype">Emgality® for migraine </p>
 
 Protocol: **Anti CGRP migraine treatments for patients refractory to standard therapy**  
 Subscription: **$10/month + cost of meds**    
