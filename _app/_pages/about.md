@@ -11,19 +11,18 @@ desc:
 <p style="text-align:center;">Pharmr is on a mission to make maintenance therapy easy & accessible for the millions of people who take it each day. That's why we've built special tools to make the process as painless as possible. So you can cruise without interruption on your <span style="color: #E70FC6; font-weight: bold;">Humira®</span>, <span style="color: #E70FC6; font-weight: bold;">Biktarvy®</span> or <span style="color: #E70FC6; font-weight: bold;">Lispro®</span> — and never miss a dose again.</p>
 <br>
 <br>
-<br>
 {: style="color: black; font-size: 150%; text-align: center; line-height: 1.2;"}
 <br>
 <br>
 <h1 style="text-align:center;"> How it works</h1>
 <hr style="height:50px; visibility:hidden;" />
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center} 
-<p style="text-align:center; font-weight:bold;">Find a protocol & subscribe</p>  
-<p style="text-align:center;">Each protocol on Pharmr is run by specialists who know your condition & medications inside and out. A simple subscription lets you access both on an ongoing basis. </p> 
+<p style="text-align:center; font-weight:bold;">Find protocols & subscribe</p>  
+<p style="text-align:center;">Each protocol on Pharmr is run by specialists who know your condition & medications inside and out. A simple subscription lets you access both in an ongoing basis. </p> 
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
-<p style="text-align:center; font-weight:bold;">Get meds and have them shipped to you</p> 
-<p style="text-align:center;">Manage your prescriptions like a pro. We offer first of its kind <span style="color: #E70FC6; font-weight: bold;">programmatic control</span> over your scripts. Get, refill, reorder and easily switch between drugs of the same class. Choose any pharmacy you'd like on checkout. </p> 
+<p style="text-align:center; font-weight:bold;">Get meds & manage them digitally</p> 
+<p style="text-align:center;">Pharmr's core is awesome prescription management. We offer first of its kind <span style="color: #E70FC6; font-weight: bold;">programmatic control</span> over your scripts. Get, refill, reorder and easily switch between drugs of the same class. Choose any pharmacy you'd like on checkout. </p> 
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p style="text-align:center; font-weight:bold;">Check in on the regular</p>
