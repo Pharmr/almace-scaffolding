@@ -18,23 +18,19 @@ desc:
 <hr style="height:50px; visibility:hidden;" />
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center} 
 <p style="text-align:center; font-weight:bold;">Find protocols & subscribe</p>  
-<p style="text-align:center;">Each protocol on Pharmr is run by specialists who know your condition & medications inside and out. A simple subscription lets you access both in an ongoing basis. </p> 
+<p style="text-align:center;">Each protocol on Pharmr is run by specialists who know your condition & medication inside and out. A simple subscription lets you access both in an ongoing basis. </p> 
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
-<p style="text-align:center; font-weight:bold;">Get meds & manage them digitally</p> 
-<p style="text-align:center;">Pharmr's core is awesome prescription management. Get, refill, reorder and easily switch between drugs of the same class, <span style="color: #E70FC6; font-weight: bold;">programmatic control</span>. Choose any pharmacy you'd like on checkout. </p> 
+<p style="text-align:center; font-weight:bold;">Get scripts & manage them digitally</p> 
+<p style="text-align:center;">Pharmr's core is awesome prescription management. Get, refill, reorder and easily switch between drugs of the same class <span style="color: #E70FC6; font-weight: bold;">all programmatically</span>. Choose any pharmacy you'd like at checkout. </p> 
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p style="text-align:center; font-weight:bold;">Check in on the regular</p>
-<p style="text-align:center;">While you're cruising, input data about how you’re doing at regular intervals. If your provider notices something is up, they’ll reach out. </p>
-<br>
-![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
-<p style="text-align:center; font-weight:bold;">Ask medical questions in the moment</p>  
-<p style="text-align:center;">Taking meds isn't fun. But if something weird happens, that's ok, you're fully supported. Your provider can help you quickly resolve it or escalate it.</p>  
+<p style="text-align:center;">Taking serious meds isn't fun. But if something weird happens, that's ok, because you're fully supported. Your specialist can help you resolve it or quickly escalate the issue.</p>
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p style="text-align:center; font-weight:bold;">Keep cruising</p>
-<p style="text-align:center;">Never worry about your meds again. Pharmr let’s you cruise indefinitely on your critical meds so you never have to go without them. We made drug therapy easier, so you have time to do other stuff.</p>   
+<p style="text-align:center;">Never worry about your meds again. Pharmr let’s you cruise indefinitely on your critical meds so nothing bad happens. We made drug therapy easier, so you have time to do other stuff.</p>   
 <br>
 <h1 style="text-align:center;">Why</h1>  
 <hr style="height:50px; visibility:hidden;" />
@@ -215,3 +211,11 @@ With Pharmr, access cutting-edge therapies, control your own scripts, and never 
 Get meds & manage them digitally
 
 Pharmr's core is awesome prescription management. We offer first of its kind programmatic control over your scripts. Get, refill, reorder and easily switch between drugs of the same class. Choose any pharmacy you'd like on checkout.
+
+![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
+<p style="text-align:center; font-weight:bold;">Check in on the regular</p>
+<p style="text-align:center;">While you're cruising, input data about how you’re doing at regular intervals. If your provider notices something is up, they’ll reach out. </p>
+<br>
+![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
+<p style="text-align:center; font-weight:bold;">Ask medical questions in the moment</p>  
+<p style="text-align:center;">Taking meds isn't fun. But if something weird happens, that's ok, because you're fully supported. Your provider can help you quickly resolve it or escalate it.</p>  
