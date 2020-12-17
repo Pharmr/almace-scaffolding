@@ -9,14 +9,13 @@ desc:
 <h1 style="text-align:center;">Being sick sucks. Pharmr makes drug therapy simple.</h1>
 <br>
 <p style="text-align:center;">Pharmr is on a mission to make maintenance therapy easy & accessible for the millions of people who take it each day. That's why we've built special tools to make the process as painless as possible. So you can cruise on your <span style="color: #E70FC6; font-weight: bold;">Humira®</span>, <span style="color: #E70FC6; font-weight: bold;">Biktarvy®</span> or <span style="color: #E70FC6; font-weight: bold;">Lispro®</span> without interruption — and never miss a dose.</p>
-<br>
 {: style="color: black; font-size: 150%; text-align: center; line-height: 1.2;"}
 <br>
 <h1 style="text-align:center;"> How it works</h1>
 <hr style="height:50px; visibility:hidden;" />
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center} 
 <p style="text-align:center; font-weight:bold;">Find protocols & subscribe</p>  
-<p style="text-align:center;">Doctors on Pharmr run hyperspecialized protocols for you. Find your condition, subscribe, and access cutting edge therapies and support all-in-one.</p> 
+<p style="text-align:center;">Doctors on Pharmr run <span style="color: #E70FC6; font-weight: bold;">hyperspecialized protocols</span> for you. Find your condition, subscribe, and access cutting edge therapies and support all-in-one.</p> 
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p style="text-align:center; font-weight:bold;">Manage your meds virtually</p> 
@@ -24,11 +23,11 @@ desc:
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p style="text-align:center; font-weight:bold;">Check in on the regular</p>
-<p style="text-align:center;">Regular, lightweight check-ins are better than going to your doctor once a year. With Pharmr, provide status updates and head off issues before they escalate.</p>
+<p style="text-align:center;">Regular, lightweight check-ins are better than going to your doctor once a year. With Pharmr, provide status updates and <span style="color: #E70FC6; font-weight: bold;">head off issues before they escalate</span>.</p>
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p style="text-align:center; font-weight:bold;">Keep cruising</p>
-<p style="text-align:center;">Never worry about your meds again. We made drug therapy easier, so you have time to do other stuff.</p>   
+<p style="text-align:center;"><span style="color: #E70FC6; font-weight: bold;">Never worry about your meds again</span>. We made drug therapy easier, so you have time to do other stuff.</p>   
 <br>
 <h1 style="text-align:center;">Why</h1>  
 <hr style="height:50px; visibility:hidden;" />
