@@ -20,12 +20,12 @@ desc:
 <p style="text-align:center;">Each protocol on Pharmr is run by specialists who know your condition & medication inside and out. A simple subscription lets you access both in an ongoing basis. </p> 
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
-<p style="text-align:center; font-weight:bold;">Get scripts & manage them digitally</p> 
+<p style="text-align:center; font-weight:bold;">Get & manage scripts like a pro</p> 
 <p style="text-align:center;">Pharmr's core is awesome prescription management. Get, refill, reorder and easily switch between drugs of the same class <span style="color: #E70FC6; font-weight: bold;">all programmatically</span>. Choose any pharmacy you'd like at checkout. </p> 
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p style="text-align:center; font-weight:bold;">Check in on the regular</p>
-<p style="text-align:center;">Taking serious meds isn't fun. But if something happens, that's ok, you're fully supported. Your specialist can help you resolve it or quickly escalate the issue.</p>
+<p style="text-align:center;">Taking serious meds isn't fun. But if something comes up, that's ok, you're fully supported. Your specialist can help you resolve it or quickly escalate the issue.</p>
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p style="text-align:center; font-weight:bold;">Keep cruising</p>
