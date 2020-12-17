@@ -22,7 +22,7 @@ desc:
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p style="text-align:center; font-weight:bold;">Get meds & manage them digitally</p> 
-<p style="text-align:center;">Pharmr's core is awesome prescription management. We offer first of its kind <span style="color: #E70FC6; font-weight: bold;">programmatic control</span> over your scripts. Get, refill, reorder and easily switch between drugs of the same class. Choose any pharmacy you'd like on checkout. </p> 
+<p style="text-align:center;">Pharmr's core is awesome prescription management. Get, refill, reorder and easily switch between drugs of the same class, <span style="color: #E70FC6; font-weight: bold;">programmatic control</span>. Choose any pharmacy you'd like on checkout. </p> 
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p style="text-align:center; font-weight:bold;">Check in on the regular</p>
@@ -210,4 +210,8 @@ With Pharmr, access cutting-edge therapies, control your own scripts, and never 
 
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p style="text-align:center; font-weight:bold;">Get meds and have them shipped to you</p> 
-<p style="text-align:center;">Pharmr's core is built around awesome prescription management. We offer first of its kind <span style="color: #E70FC6; font-weight: bold;">programmatic control</span> over your scripts. Get, refill, reorder and easily switch between drugs of the same class. Choose any pharmacy you'd like. </p> 
+<p style="text-align:center;">Pharmr's core is built around awesome prescription management. We offer first of its kind <span style="color: #E70FC6; font-weight: bold;">programmatic control</span> over your scripts. Get, refill, reorder and easily switch between drugs of the same class. Choose any pharmacy you'd like. </p>
+
+Get meds & manage them digitally
+
+Pharmr's core is awesome prescription management. We offer first of its kind programmatic control over your scripts. Get, refill, reorder and easily switch between drugs of the same class. Choose any pharmacy you'd like on checkout.
