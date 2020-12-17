@@ -19,23 +19,23 @@ desc:
 <hr style="height:50px; visibility:hidden;" />
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center} 
 <p style="text-align:center; font-weight:bold;">Find a protocol and subscribe</p>  
-<p style="text-align:center;"Every protocol on Pharmr is run by nerdy physcians who know your specific condition and drug therapy inside and out. A simple subscription lets you access them and their tailored drugstore in an ongoing basis. </p> 
+<p style="text-align:center;">Every protocol on Pharmr is run by specialists who know your condition & therapy inside and out. A simple subscription lets you access them and their drugstore in an ongoing basis. </p> 
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p style="text-align:center; font-weight:bold;">Get meds and have them shipped to you</p> 
-<p style="text-align:center;">Pharmr is built around awesome prescription management. We offer first of its kind <span style="color: #E70FC6; font-weight: bold;">programmatic control</span> of your scripts. Get, refill, reorder and easily switch between drugs of the same class. Choose any pharmacy you'd like. </p> 
+<p style="text-align:center;">Pharmr's core is built around awesome prescription management. We offer first of its kind <span style="color: #E70FC6; font-weight: bold;">programmatic control</span> over your scripts. Get, refill, reorder and easily switch between drugs of the same class. Choose any pharmacy you'd like. </p> 
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p style="text-align:center; font-weight:bold;">Check in on the regular</p>
-<p style="text-align:center;">While you're cruising, input data about how you’re doing at regular intervals. If your provider notices something is up, they’ll reach back out and solve it. </p>
+<p style="text-align:center;">While you're cruising, input data about how you’re doing at regular intervals. If your provider notices something is up, they’ll reach out. </p>
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
-<p style="text-align:center; font-weight:bold;">Ask medical questions as they arise</p>  
-<p style="text-align:center;">Taking meds isn't fun. But if something weird happens that's ok, you're fully supported. Your provider can help you resolve it or escalate it.</p>  
+<p style="text-align:center; font-weight:bold;">Ask medical questions in the moment</p>  
+<p style="text-align:center;">Taking meds isn't fun. But if something weird happens, that's ok, you're fully supported. Your provider can help you quickly resolve it or escalate it.</p>  
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p style="text-align:center; font-weight:bold;">Keep cruising</p>
-<p style="text-align:center;">Never worry about your meds again. Pharmr let’s you cruise indefinitely on your Humira, byktarvi or lispro and so you never skip a beat. We made drug therapy easier, so you have time to do other, more important stuff.</p>   
+<p style="text-align:center;">Never worry about your meds again. Pharmr let’s you cruise indefinitely on your Humira, byktarvi or lispro and so you never miss a beat. We made drug therapy easier, so you have time to do other, more important stuff.</p>   
 <br>
 <h1 style="text-align:center;">Why</h1>  
 <hr style="height:50px; visibility:hidden;" />
