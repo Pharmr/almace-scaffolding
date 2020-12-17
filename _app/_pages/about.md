@@ -8,8 +8,7 @@ desc:
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <h1 style="text-align:center;">Being sick sucks. Pharmr makes drug therapy simple.</h1>
 <br>
-<p style="text-align:center;">Pharmr is on a mission to make maintenance therapy easy & accessible for the millions of people who take it each day. That's why we've built special tools to make the process as painless as possible. So you can cruise without interruption on your <span style="color: #E70FC6; font-weight: bold;">Humira®</span>, <span style="color: #E70FC6; font-weight: bold;">Biktarvy®</span> or <span style="color: #E70FC6; font-weight: bold;">Lispro®</span> — and never miss a dose again.</p>
-<br>
+<p style="text-align:center;">Pharmr is on a mission to make maintenance therapy easy & accessible for the millions of people who take it each day. That's why we've built special tools to make the process as painless as possible. So you can cruise on your <span style="color: #E70FC6; font-weight: bold;">Humira®</span>, <span style="color: #E70FC6; font-weight: bold;">Biktarvy®</span> or <span style="color: #E70FC6; font-weight: bold;">Lispro®</span> without interruption — and never miss a dose.</p>
 <br>
 {: style="color: black; font-size: 150%; text-align: center; line-height: 1.2;"}
 <br>
@@ -17,15 +16,15 @@ desc:
 <hr style="height:50px; visibility:hidden;" />
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center} 
 <p style="text-align:center; font-weight:bold;">Find protocols & subscribe</p>  
-<p style="text-align:center;">Doctors on Pharmr create hyperspecialized protocols for you. Find your condition, subscribe, and access cutting edge therapies and support all-in-one.</p> 
+<p style="text-align:center;">Doctors on Pharmr run hyperspecialized protocols for you. Find your condition, subscribe, and access cutting edge therapies and support all-in-one.</p> 
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p style="text-align:center; font-weight:bold;">Manage your meds virtually</p> 
-<p style="text-align:center;">With Pharmr, get, refill, reorder and easily switch between drugs of the same class <span style="color: #E70FC6; font-weight: bold;">all programmatically</span>. Choose any pharmacy you'd like at checkout.</p> 
+<p style="text-align:center;">Get, refill, reorder and easily switch between drugs of the same class <span style="color: #E70FC6; font-weight: bold;">all programmatically</span>. Choose any pharmacy you'd like — even have them shipped.</p> 
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p style="text-align:center; font-weight:bold;">Check in on the regular</p>
-<p style="text-align:center;"Regular, lightweight check-ins are better than going to your doctor once a year. With Pharmr, provide status updates and head off issues before they escalate.</p>
+<p style="text-align:center;">Regular, lightweight check-ins are better than going to your doctor once a year. With Pharmr, provide status updates and head off issues before they escalate.</p>
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p style="text-align:center; font-weight:bold;">Keep cruising</p>
@@ -33,7 +32,7 @@ desc:
 <br>
 <h1 style="text-align:center;">Why</h1>  
 <hr style="height:50px; visibility:hidden;" />
-<p style="text-align:center;">The cornerstone of staying healthy is taking your meds — <span style="color: #E70FC6; font-weight: bold;">every day</span>. But they don’t make it easy. Prior authorizations, different formularies, substitutions, new insurance, new job, new state, deductibles, specialist referrals.  
+<p style="text-align:center;">The cornerstone of staying healthy is taking your meds — <span style="color: #E70FC6; font-weight: bold;">every day</span>. But they don’t make it easy: prior authorizations, different formularies, substitutions, new insurance, new job, new state, deductibles, referrals.  
 <br>
 <br>
 Pharmr was built by patients like you to put you in charge of your own scripts and care. Long term drug therapy is a different beast from diagnosis or initial treatment, so it’s time we do it differently. 
