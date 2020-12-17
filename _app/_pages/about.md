@@ -13,7 +13,6 @@ desc:
 <br>
 {: style="color: black; font-size: 150%; text-align: center; line-height: 1.2;"}
 <br>
-<br>
 <h1 style="text-align:center;"> How it works</h1>
 <hr style="height:50px; visibility:hidden;" />
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center} 
@@ -26,7 +25,7 @@ desc:
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p style="text-align:center; font-weight:bold;">Check in on the regular</p>
-<p style="text-align:center;">Taking serious meds isn't fun. But if something happens, that's ok, because you're fully supported. Your specialist can help you resolve it or quickly escalate the issue.</p>
+<p style="text-align:center;">Taking serious meds isn't fun. But if something happens, that's ok, you're fully supported. Your specialist can help you resolve it or quickly escalate the issue.</p>
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p style="text-align:center; font-weight:bold;">Keep cruising</p>
