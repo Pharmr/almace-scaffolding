@@ -26,15 +26,15 @@ desc:
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p style="text-align:center; font-weight:bold;">Check in on the regular</p>
-<p style="text-align:center;">Taking serious meds isn't fun. But if something weird happens, that's ok, because you're fully supported. Your specialist can help you resolve it or quickly escalate the issue.</p>
+<p style="text-align:center;">Taking serious meds isn't fun. But if something happens, that's ok, because you're fully supported. Your specialist can help you resolve it or quickly escalate the issue.</p>
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p style="text-align:center; font-weight:bold;">Keep cruising</p>
-<p style="text-align:center;">Never worry about your meds again. Pharmr let’s you cruise indefinitely on your critical meds so nothing bad happens. We made drug therapy easier, so you have time to do other stuff.</p>   
+<p style="text-align:center;">Never worry about your meds again. We made drug therapy easier, so you have time to do other stuff.</p>   
 <br>
 <h1 style="text-align:center;">Why</h1>  
 <hr style="height:50px; visibility:hidden;" />
-<p style="text-align:center;">The cornerstone of staying healthy is taking your meds—*every day*. But they don’t make it easy. Prior authorizations, different formularies, substitutions, new insurance, new job, new state, deductibles, specialist referrals.  
+<p style="text-align:center;">The cornerstone of staying healthy is taking your meds — <span style="color: #E70FC6; font-weight: bold;">every day</span>. But they don’t make it easy. Prior authorizations, different formularies, substitutions, new insurance, new job, new state, deductibles, specialist referrals.  
 <br>
 <br>
 Pharmr was built by patients like you to put you in charge of your own scripts and care. Long term drug therapy is a different beast from diagnosis or initial treatment, so it’s time we do it differently. 
@@ -49,8 +49,8 @@ Otherwise, <span style="font-weight: bold;">happy cruising 🏄.</span></p>
 <br>
 # FAQ 
 <br>
-**What is Pharmr**
-Pharmr is a subscription-based drug therapy platform for patients with chronic conditions. 
+**What is Pharmr**  
+Pharmr is a subscription-based drug therapy platform for patients with chronic conditions.  
 <details>
   <summary>Supported Fonts</summary>
   <ul>
@@ -219,3 +219,6 @@ Pharmr's core is awesome prescription management. We offer first of its kind pro
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p style="text-align:center; font-weight:bold;">Ask medical questions in the moment</p>  
 <p style="text-align:center;">Taking meds isn't fun. But if something weird happens, that's ok, because you're fully supported. Your provider can help you quickly resolve it or escalate it.</p>  
+
+<p style="text-align:center; font-weight:bold;">Keep cruising</p>
+<p style="text-align:center;">Never worry about your meds again. Pharmr let’s you cruise indefinitely on your critical meds so nothing bad happens. We made drug therapy easier, so you have time to do other stuff.</p>   
