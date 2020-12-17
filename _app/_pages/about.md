@@ -20,8 +20,8 @@ desc:
 <p style="text-align:center;">Each protocol on Pharmr is run by specialists who know your condition & medication inside and out. A simple subscription lets you access both in an ongoing basis. </p> 
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
-<p style="text-align:center; font-weight:bold;">Manage & request scripts like a pro</p> 
-<p style="text-align:center;">Pharmr's core is awesome prescription management. Get, refill, reorder and easily switch between drugs of the same class <span style="color: #E70FC6; font-weight: bold;">all programmatically</span>. Choose any pharmacy you'd like at checkout. </p> 
+<p style="text-align:center; font-weight:bold;">Manage your meds like a pro</p> 
+<p style="text-align:center;">Get, refill, reorder and easily switch between drugs of the same class <span style="color: #E70FC6; font-weight: bold;">all programmatically</span>. Choose any pharmacy you'd like at checkout — even mail order.</p> 
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p style="text-align:center; font-weight:bold;">Check in on the regular</p>
