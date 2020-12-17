@@ -23,7 +23,7 @@ desc:
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p style="text-align:center; font-weight:bold;">Check in on the regular</p>
-<p style="text-align:center;">Regular, lightweight check-ins are better than going to your doctor once a year. With Pharmr, provide status updates and <span style="color: #E70FC6; font-weight: bold;">head off issues before they escalate</span>.</p>
+<p style="text-align:center;">Lightweight check-ins are better than going to your doctor once a year. With Pharmr, provide regular status updates and <span style="color: #E70FC6; font-weight: bold;">head off issues before they escalate</span>.</p>
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p style="text-align:center; font-weight:bold;">Keep cruising</p>
