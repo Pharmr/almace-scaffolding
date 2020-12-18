@@ -5,29 +5,32 @@ permalink: /about/
 desc: 
 ---
 <br>
-![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
-<h1 style="text-align:center;">Being sick sucks. Pharmr makes drug therapy simple.</h1>
+![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/santa-crestor.svg) {width:50% height: auto} 
+
+<h1 style="text-align:center;">The easiest way to cruise on your drug therapy. </h1>
+{: style="color: black; font-size: 200%; text-align: center; line-height: 1.2;"}
 <br>
-<p style="text-align:center;">Pharmr is on a mission to make maintenance therapy easy & accessible for the millions of people who take it daily. That's why we've built special tools to make the process as painless as possible. So you can cruise on your <span style="color: #E70FC6; font-weight: bold;">Humira®</span>, <span style="color: #E70FC6; font-weight: bold;">Biktarvy®</span> or <span style="color: #E70FC6; font-weight: bold;">Lispro®</span> without interruption — and never miss a dose.</p>
-{: style="color: black; font-size: 150%; text-align: center; line-height: 1.2;"}
+<p style="text-align:center;">At Pharmr, we know being sick sucks. That's why we've built tools for patients on maintenance and continuation therapy to make it as easy as possible. So you can cruise on your <span style="color: #E70FC6; font-weight: bold;">Humira®</span>, <span style="color: #E70FC6; font-weight: bold;">Biktarvy®</span> or <span style="color: #E70FC6; font-weight: bold;">Lispro®</span> — hassle free. Because the last thing you need to do is mess with the thing that's <span style="color: #E70FC6; font-weight: bold;">actually working</span>. Sign up with Pharmr and never miss a dose again. 
+</p>
+<!--{: style="color: black; font-size: 150%; text-align: center; line-height: 1.2;"}-->
 <br>
 <h1 style="text-align:center;"> How it works</h1>
 <hr style="height:50px; visibility:hidden;" />
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center} 
-<p style="text-align:center; font-weight:bold;">Find protocols & subscribe</p>  
-<p style="text-align:center;">Doctors on Pharmr run <span style="color: #E70FC6; font-weight: bold;">hyperspecialized protocols</span> for you. Find your condition, subscribe, and access cutting edge therapies and support all-in-one.</p> 
+<p style="text-align:center; font-weight:bold;">Subscribe to protocols</p>  
+<p style="text-align:center;">On Pharmr, protocols are an <span style="color: #E70FC6; font-weight: bold;">affordable way</span> to access a specialist and get refills on your maintenance meds. Find one that fits your condition and apply. <!-- Doctors on Pharmr run <span style="color: #E70FC6; font-weight: bold;">hyperspecialized protocols</span> for you. Find your condition, subscribe, and access cutting edge therapies and support all-in-one.--></p> 
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
-<p style="text-align:center; font-weight:bold;">Manage your meds virtually</p> 
-<p style="text-align:center;">Get, refill, reorder and easily switch between drugs of the same class <span style="color: #E70FC6; font-weight: bold;">all programmatically</span>. Choose any pharmacy you'd like — even have them shipped.</p> 
+<p style="text-align:center; font-weight:bold;">Get meds and support</p> 
+<p style="text-align:center;">Manage your shit like a pro. Control your scripts, route them to any pharmacy, and [dunk like systolic santa on his surf board](inline svg). <!--Get, refill, reorder and easily switch between drugs of the same class <span style="color: #E70FC6; font-weight: bold;">all programmatically</span>. Choose any pharmacy you'd like — even have them shipped.--></p> 
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
-<p style="text-align:center; font-weight:bold;">Check in on the regular</p>
-<p style="text-align:center;">Lightweight check-ins are better than going to your doctor once a year. With Pharmr, provide regular status updates and <span style="color: #E70FC6; font-weight: bold;">head off issues before they escalate</span>.</p>
-<br>
+<p style="text-align:center; font-weight:bold;">Check in on the regular & keep cruising</p>
+<p style="text-align:center;">As long as your subscribed, you'll have <span style="color: #E70FC6; font-weight: bold;">continuous access</span> to your specialist and refills on your maintenance meds. With Pharmr, never worry about your meds again.<!--As long as your subscribed, get continuous access to your specialist and refills on your maintenance meds. And never worry about meds again.--><!--Lightweight check-ins are better than going to your doctor once a year. With Pharmr, provide regular status updates and <span style="color: #E70FC6; font-weight: bold;">head off issues before they escalate</span>.--></p>
+<!--<br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p style="text-align:center; font-weight:bold;">Keep cruising</p>
-<p style="text-align:center;"><span style="color: #E70FC6; font-weight: bold;">Never worry about your meds again</span>. We made drug therapy easier, so you have time to do other stuff.</p>   
+<p style="text-align:center;"><span style="color: #E70FC6; font-weight: bold;">Never worry about your meds again</span>. We made drug therapy easier, so you have time to do other stuff.</p> -->
 <br>
 <h1 style="text-align:center;">Why</h1>  
 <hr style="height:50px; visibility:hidden;" />
@@ -46,22 +49,20 @@ Otherwise, <span style="font-weight: bold;">happy cruising 🏄.</span></p>
 <br>
 # FAQ 
 <br>
+
 **What is Pharmr**  
 Pharmr is a subscription-based drug therapy platform for patients with chronic conditions.  
-<details>
+
+<!-- <details>
   <summary>Supported Fonts</summary>
   <ul>
     <li><a href="https://www.microsoft.com/typography/otspec/features_fj.htm#qwid">Microsoft Registered features - qwid</a></li>
     <li><a href="https://typekit.com/fonts/kozuka-mincho-pr6n">Kozuka Mincho Pr6n</a></li>
   </ul>
-</details>
+</details> -->
 
-<details>
-<summary><span style="font-weight: bold;"> How much does it cost?</span></summary>
- <ul>  
+**How much does it cost?**
 All protocols are monthly subscriptions that range from $10-$30/month + the cost of drugs. You can cancel or restart at any time. 
-</ul>
-</details>
 
 **Can I use insurance?**  
 You can! Though we’re initially focusing on the cash payers experience. All protocol subscriptions are by credit card only (no insurance reimbursement), though you may use your insurance for drug fulfillment. 
