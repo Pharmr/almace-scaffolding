@@ -277,9 +277,7 @@ desc:
 <h1 style="text-align:center;">The easiest way to cruise on your drug therapy. </h1>
 {: style="color: black; font-size: 200%; text-align: center; line-height: 1.2;"}
 <br>
-<p style="text-align:center;">At Pharmr, we know being sick sucks. That's why we're on a mission to make maintenance and continuation therapy as easy as possible for the people taking them. So you can cruise on your <span style="color: #9325fb; font-weight: bold;">Humira®</span>, <span style="color: #9325fb; font-weight: bold;">Biktarvy®</span> or <span style="color: #9325fb; font-weight: bold;">Lispro®</span> without drama or interruptions. Because the last thing in the world you need is to mess with the thing that's actually working.  
-	
-Sign up with Pharmr and never miss a dose again.  
+<p style="text-align:center;">At Pharmr, we know being sick sucks. That's why we're on a mission to make maintenance and continuation therapy as easy as possible for the people taking it. So you can cruise on your <span style="color: #9325fb; font-weight: bold;">Humira®</span>, <span style="color: #9325fb; font-weight: bold;">Biktarvy®</span> or <span style="color: #9325fb; font-weight: bold;">Lispro®</span> interrupted, no friction or drama. Because the last thing in the world you need is to mess with the thing that's actually working. Sign up with Pharmr and never miss a dose again.  
 </p>
 <!--{: style="color: black; font-size: 150%; text-align: center; line-height: 1.2;"}-->
 <br>
