@@ -277,7 +277,9 @@ desc:
 <h1 style="text-align:center;">The easiest way to cruise on your drug therapy. </h1>
 {: style="color: black; font-size: 200%; text-align: center; line-height: 1.2;"}
 <br>
-<p style="text-align:center;">At Pharmr, we know being sick sucks. That's why we're on a mission to make maintenance and continuation therapy as easy as possible for the people taking them. So you can cruise on your <span style="color: #9325fb; font-weight: bold;">Humira®</span>, <span style="color: #9325fb; font-weight: bold;">Biktarvy®</span> or <span style="color: #9325fb; font-weight: bold;">Lispro®</span> without drama or interruptions. Because the last thing in the world you need is to mess with the thing that's actually working. Sign up with Pharmr and never miss a dose again. 
+<p style="text-align:center;">At Pharmr, we know being sick sucks. That's why we're on a mission to make maintenance and continuation therapy as easy as possible for the people taking them. So you can cruise on your <span style="color: #9325fb; font-weight: bold;">Humira®</span>, <span style="color: #9325fb; font-weight: bold;">Biktarvy®</span> or <span style="color: #9325fb; font-weight: bold;">Lispro®</span> without drama or interruptions. Because the last thing in the world you need is to mess with the thing that's actually working.  
+	
+Sign up with Pharmr and never miss a dose again.  
 </p>
 <!--{: style="color: black; font-size: 150%; text-align: center; line-height: 1.2;"}-->
 <br>
@@ -285,11 +287,11 @@ desc:
 <hr style="height:50px; visibility:hidden;" />
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center} 
 <p><h1 style="text-align:center;">Subscribe to protocols</h1></p> 
-<p style="text-align:center;">On Pharmr, protocols are an <span style="color: #9325fb; font-weight: bold;">affordable way</span> to access a specialist and get refills on your maintenance meds. Find one that fits your condition and apply. <!-- Doctors on Pharmr run <span style="color: #E70FC6; font-weight: bold;">hyperspecialized protocols</span> for you. Find your condition, subscribe, and access cutting edge therapies and support all-in-one.--></p> 
+<p style="text-align:center;">On Pharmr, protocols are an easy way to access a specialist and get refills on your maintenance meds. Find one that fits your condition and apply. <!-- Doctors on Pharmr run <span style="color: #E70FC6; font-weight: bold;">hyperspecialized protocols</span> for you. Find your condition, subscribe, and access cutting edge therapies and support all-in-one.--></p> 
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p><h1 style="text-align:center;">Get meds and support</h1></p>  
-<p style="text-align:center;">Manage your shit like a pro. Control your scripts, route them to any pharmacy, and [dunk like systolic santa on his surf board](inline svg). <!--Get, refill, reorder and easily switch between drugs of the same class <span style="color: #E70FC6; font-weight: bold;">all programmatically</span>. Choose any pharmacy you'd like — even have them shipped.--></p> 
+<p style="text-align:center;">Manage your condition online like a pro. Get scripts, control them programmatically, and route them to any pharmacy. Get help from your specialist at any time. <!--Get, refill, reorder and easily switch between drugs of the same class <span style="color: #E70FC6; font-weight: bold;">all programmatically</span>. Choose any pharmacy you'd like — even have them shipped.--></p> 
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
 <p><h1 style="text-align:center;">Check in regularly & keep cruising</h1></p> 
