@@ -277,7 +277,7 @@ desc:
 <h1 style="text-align:center;">The easiest way to cruise on your drug therapy. </h1>
 {: style="color: black; font-size: 200%; text-align: center; line-height: 1.2;"}
 <br>
-<p style="text-align:center;">At Pharmr, we know being sick sucks. That's why we've built tools for patients on maintenance and continuation therapy to make it as easy as possible. So you can cruise on your <span style="color: #9325fb; font-weight: bold;">Humira®</span>, <span style="color: #9325fb; font-weight: bold;">Biktarvy®</span> or <span style="color: #9325fb; font-weight: bold;">Lispro®</span> — hassle free. Because the last thing you need to do is mess with the thing that's <span style="color: #9325fb; font-weight: bold;">actually working</span>. Sign up with Pharmr and never miss a dose again. 
+<p style="text-align:center;">At Pharmr, we know being sick sucks. That's why we're on a mission to make maintenance and continuation therapy as easy as possible. So you can cruise on your <span style="color: #9325fb; font-weight: bold;">Humira®</span>, <span style="color: #9325fb; font-weight: bold;">Biktarvy®</span> or <span style="color: #9325fb; font-weight: bold;">Lispro®</span> without friction or interruption. Because the last thing in the world you need is to mess with the thing that's <span style="color: #9325fb; font-weight: bold;">actually working</span>. Sign up with Pharmr and never miss a dose again. 
 </p>
 <!--{: style="color: black; font-size: 150%; text-align: center; line-height: 1.2;"}-->
 <br>
@@ -292,7 +292,7 @@ desc:
 <p style="text-align:center;">Manage your shit like a pro. Control your scripts, route them to any pharmacy, and [dunk like systolic santa on his surf board](inline svg). <!--Get, refill, reorder and easily switch between drugs of the same class <span style="color: #E70FC6; font-weight: bold;">all programmatically</span>. Choose any pharmacy you'd like — even have them shipped.--></p> 
 <br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
-<p><h1 style="text-align:center;">Check in on the regular & keep cruising</h1></p> 
+<p><h1 style="text-align:center;">Check in regularly & keep cruising</h1></p> 
 <p style="text-align:center;">As long as your subscribed, you'll have <span style="color: #9325fb; font-weight: bold;">continuous access</span> to your specialist and refills on your maintenance meds. With Pharmr, never worry about your meds again.<!--As long as your subscribed, get continuous access to your specialist and refills on your maintenance meds. And never worry about meds again.--><!--Lightweight check-ins are better than going to your doctor once a year. With Pharmr, provide regular status updates and <span style="color: #E70FC6; font-weight: bold;">head off issues before they escalate</span>.--></p>
 <!--<br>
 ![Image](https://raw.githubusercontent.com/Pharmr/static-landing/master/_app/assets/svg/diamond.svg){: .no-resize.center}  
